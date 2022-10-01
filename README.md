@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 
 <!--
-LİNK VERME... <a href="https://twitter.com/MustafaTuncel93">Mustafa TUNCEL Twitter</a>
+LİNK VERME <a href="https://twitter.com/MustafaTuncel93">Mustafa TUNCEL Twitter</a>
 -->
