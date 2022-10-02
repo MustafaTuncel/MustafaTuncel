@@ -5,7 +5,11 @@
 
 
 
-- 📫 How to reach me: mustafatuncel.93@outlook.com https://linkedin.com/in/mustafatuncel93 https://stackoverflow.com/users/20082069
+- 📫 How to reach me: 
+mustafatuncel.93@outlook.com 
+https://linkedin.com/in/mustafatuncel93 
+https://stackoverflow.com/users/20082069
+
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=MustafaTuncel&show_icons=true&theme=gradient) 
 
