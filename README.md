@@ -1,11 +1,8 @@
 ### Hello there 👋
 
 
+- 🌱 I’m currently learning ```Git, GitHub, Python 3.```
 
-```
-- 🌱 I’m currently learning Git, GitHub, Python 3.
-```
-- 🌱 I’m currently learning Git, GitHub, Python 3.
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=MustafaTuncel&show_icons=true&theme=gradient) 
 
