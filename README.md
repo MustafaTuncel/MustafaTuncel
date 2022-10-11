@@ -28,13 +28,7 @@ Here are some ideas to get you started:
 
 
 <!--
-- 🌱 I’m currently learning ```Git, GitHub, Python 3.```
-
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=MustafaTuncel&show_icons=true&theme=gradient) 
--->
 
-
-<!--
-LİNK VERME <a href="https://twitter.com/MustafaTuncel93">Mustafa TUNCEL Twitter</a>
 -->
