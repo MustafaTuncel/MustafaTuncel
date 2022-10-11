@@ -1,11 +1,14 @@
+<img src="https://media.giphy.com/media/0FHJ363Octui8Emuul/giphy.gif" align="right" width="400" height="250">
+
 ### Hello there 👋
+## Junior Developer | _I'm in learning process._
 
 
-- 🌱 I’m currently learning ```Git, GitHub, Python 3.```
 
+<font color="green">- 🌱 I’m currently learning ```Git, GitHub, Python 3.``` </font>
+<font color="red">- 📫 How to reach me: </font>
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=MustafaTuncel&show_icons=true&theme=gradient) 
-
+<font color="purple">- ⚡ Fun fact: </font> <font color="grey">My real job is accountant but I'm unemployed. So I'm studying software. </font>
 
 
 <!--
@@ -14,7 +17,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -23,6 +26,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<!--
+- 🌱 I’m currently learning ```Git, GitHub, Python 3.```
+
+
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=MustafaTuncel&show_icons=true&theme=gradient) 
+-->
 
 
 <!--
