@@ -5,8 +5,8 @@
 
 
 
-<font color="green">- 🌱 I’m currently learning ```Git, GitHub, Python 3.``` </font>
-<font color="red">- 📫 How to reach me: </font>
+<font color="green">- 🌱 I’m currently learning ```Git, GitHub, Python 3.``` </font> <br/>
+<font color="red">- 📫 How to reach me: </font> 
 
 <font color="purple">- ⚡ Fun fact: </font> <font color="grey">My real job is accountant but I'm unemployed. So I'm studying software. </font>
 
