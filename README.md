@@ -17,7 +17,10 @@ So I'm studying software.
 
 **<font color="yellow">- ⚡ Fun fact: </font>** <font color="grey">`I'm an enthusiast with Fitness, Games (PC,RP,Board), Vocal Trance & Reggae Music.` </font> <br/>
 
-**<font color="red">- 📫 How to reach me: </font>**<br/>
+**<font color="red">- 📫 How to reach me: </font>**
+<br/>
+<br/>
+
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin] 
 [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/stackoverflow.svg" align="left" />][stackoverflow]
 [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left" />][twitter]
@@ -47,18 +50,6 @@ Here are some ideas to get you started:
 
 
 <!--
-<<<<<<< HEAD
-=======
-
->>>>>>> f6567c6e904ca7ae4906c58f5ec4e0f064fb1228
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=MustafaTuncel&show_icons=true&theme=gradient) 
-
-<<<<<<< HEAD
-
-
-
-
-<!-->
 [linkedin]: https://www.linkedin.com/in/mustafatuncel93/
 [stackoverflow]: https://stackoverflow.com/users/20082069/
 [twitter]: https://twitter.com/MustafaTuncel93/
@@ -66,6 +57,5 @@ Here are some ideas to get you started:
 [disqus]: https://disqus.com/by/StyleRelaps/
 [facebook]: https://www.facebook.com/Mustafa.Tuncel.05/
 -->
-=======
--->
->>>>>>> f6567c6e904ca7ae4906c58f5ec4e0f064fb1228
+
+
