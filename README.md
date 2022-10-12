@@ -17,17 +17,13 @@ So I'm studying software.
 
 **<font color="yellow">- ⚡ Fun fact: </font>** <font color="grey">`I'm an enthusiast with Fitness, Games (PC,RP,Board), Vocal Trance & Reggae Music.` </font> <br/>
 
-**<font color="red">- 📫 How to reach me: </font>**
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][linkedin] [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/stackoverflow.svg" />][stackoverflow]  [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" />][instagram] [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />][twitter] [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/disqus.svg" />][disqus] [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/facebook.svg" />][facebook]
-
-**<font color="red">- 📫 How to reach me: </font>**
+**<font color="red">- 📫 How to reach me: </font>**<br/>
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin] 
 [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/stackoverflow.svg" align="left" />][stackoverflow]
 [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left" />][twitter]
 [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align="left" />][instagram]
 [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/disqus.svg" align="left" />][disqus]
 [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/facebook.svg" align="left" />][facebook]
-
 
 <br/>
 <br/>
