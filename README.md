@@ -51,9 +51,13 @@ Here are some ideas to get you started:
 
 
 <!--
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=MustafaTuncel&show_icons=true&theme=gradient) 
--->
+<<<<<<< HEAD
+=======
 
+>>>>>>> f6567c6e904ca7ae4906c58f5ec4e0f064fb1228
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=MustafaTuncel&show_icons=true&theme=gradient) 
+
+<<<<<<< HEAD
 
 
 
@@ -66,3 +70,6 @@ Here are some ideas to get you started:
 [disqus]: https://disqus.com/by/StyleRelaps/
 [facebook]: https://www.facebook.com/Mustafa.Tuncel.05/
 -->
+=======
+-->
+>>>>>>> f6567c6e904ca7ae4906c58f5ec4e0f064fb1228
