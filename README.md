@@ -21,12 +21,12 @@ So I'm studying software.
 <br/>
 <br/>
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />] [https://www.linkedin.com/in/mustafatuncel93/] 
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/stackoverflow.svg" align="left" />] [stackoverflow]
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left" />] [twitter]
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align="left" />] [instagram]
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/disqus.svg" align="left" />] [disqus]
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/facebook.svg" align="left" />] [facebook]
+[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][https://www.linkedin.com/in/mustafatuncel93/] 
+[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/stackoverflow.svg" align="left" />][stackoverflow]
+[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left" />][twitter]
+[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align="left" />][instagram]
+[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/disqus.svg" align="left" />][disqus]
+[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/facebook.svg" align="left" />][facebook]
 
 <br/>
 <br/>
