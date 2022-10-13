@@ -4,8 +4,8 @@
 ## Junior Developer | I'm in learning process.
 
 *~~My real job is accountant~~ but I'm unemployed. <br/>
-So I'm studying software. <br/>
-**<font color="whiteblack"><ins>My dreams are how I keep up with code.</ins> </font>*** <br/>
+So I'm studying software. <br/>*
+**<font color="whiteblack">- :battery: *<ins>My dreams are how I keep up with code.</ins> </font>*** <br/>
 
 **<font color="purple">- 🔭 I’m currently working on** </font> <font color="grey">`README.md & my personal web site.` </font> <br/>
 
@@ -15,13 +15,13 @@ So I'm studying software. <br/>
 
 **<font color="blue">- 😄 Pronouns: </font>** <font color="grey">`He/Him.` </font> <br/>
 
-**<font color="yellow">- ⚡ Fun fact: </font>** <font color="grey">`I'm an enthusiast with Fitness, Games (PC,RP,Board), Vocal Trance & Reggae Music.` </font> <br/>
+**<font color="yellow">- ⚡ Fun fact: </font>** <font color="grey">`I'm a Fitness, Vocal Trance, Reggae Music, Computer Games, Role-Playing Games & Board Games enthusiast.` </font> <br/>
 
-**<font color="brown">- 📫 Tech I use: </font>**
+**<font color="brown">- :computer: Tech I use: </font>**
 <br/>
 <br/>
-<img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" align="left">
-<img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" align="left">
+[<img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" align="left">][git]
+[<img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" align="left">][python]
 <br/>
 <br/>
 **<font color="red">- 📫 How to reach me: </font>**
@@ -70,3 +70,5 @@ Here are some ideas to get you started:
 [facebook]: https://www.facebook.com/Mustafa.Tuncel.05/
 [disqus]: https://disqus.com/by/StyleRelaps/
 
+[git]: https://git-scm.com/
+[python]: https://www.python.org/
