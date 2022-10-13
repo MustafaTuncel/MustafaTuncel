@@ -19,24 +19,21 @@ So I'm studying software. <br/>
 
 **<font color="red">- 📫 How to reach me: </font>**
 <br/>
-<br/>
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin]
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/stackoverflow.svg" align="left" />][stackoverflow]
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left" />][twitter]
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align="left" />][instagram]
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/disqus.svg" align="left" />][disqus]
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/facebook.svg" align="left" />][facebook]
+[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/github.svg" align="left" />][github]
+[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/stackoverflow.svg" align="left" />][stackoverflow]
+[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left" />][twitter] <br/>
+[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/youtube.svg" align="left" />][youtube]
+[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align="left" />][instagram]
+[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/facebook.svg" align="left" />][facebook]
+[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/disqus.svg" align="left" />][disqus]
+
 
 <br/>
 <br/>
 
-DENEMELER
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin]
 
-[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin]
 
 <!--
 **MustafaTuncel/MustafaTuncel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -54,13 +51,15 @@ Here are some ideas to get you started:
 -->
 
 
-<!--
+
+
+
 [linkedin]: https://www.linkedin.com/in/mustafatuncel93/
+[github]: https://github.com/MustafaTuncel
 [stackoverflow]: https://stackoverflow.com/users/20082069/
 [twitter]: https://twitter.com/MustafaTuncel93/
+[youtube]: mustafatuncel.1993@gmail.com
 [instagram]: https://www.instagram.com/tncl.mustafa/
-[disqus]: https://disqus.com/by/StyleRelaps/
 [facebook]: https://www.facebook.com/Mustafa.Tuncel.05/
--->
-
+[disqus]: https://disqus.com/by/StyleRelaps/
 
