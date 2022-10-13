@@ -19,12 +19,11 @@ So I'm studying software. <br/>
 
 **<font color="red">- 📫 How to reach me: </font>**
 <br/>
-
+<br/>
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin]
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/github.svg" align="left" />][github]
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/stackoverflow.svg" align="left" />][stackoverflow]
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left" />][twitter]
-<br/>
 <br/>
 <br/>
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/youtube.svg" align="left" />][youtube]
