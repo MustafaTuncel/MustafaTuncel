@@ -4,7 +4,7 @@
 ## Junior Developer | I'm in learning process.
 
 *~~My real job is accountant~~ but I'm unemployed. <br/>
-So I'm studying software.*
+So I'm studying software.*<br/>
 <br/>
 **<font color="whiteblack">- :battery: *<ins>My dreams are how I keep up with code.</ins> </font>*** <br/>
 
