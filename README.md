@@ -23,7 +23,8 @@ So I'm studying software. <br/>
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin]
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/github.svg" align="left" />][github]
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/stackoverflow.svg" align="left" />][stackoverflow]
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left" />][twitter] <br/>
+[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left" />][twitter]
+<br/>
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/youtube.svg" align="left" />][youtube]
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align="left" />][instagram]
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/facebook.svg" align="left" />][facebook]
