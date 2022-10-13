@@ -17,6 +17,13 @@ So I'm studying software. <br/>
 
 **<font color="yellow">- ⚡ Fun fact: </font>** <font color="grey">`I'm an enthusiast with Fitness, Games (PC,RP,Board), Vocal Trance & Reggae Music.` </font> <br/>
 
+**<font color="brown">- 📫 Tech I use: </font>**
+<br/>
+<br/>
+<img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" align="left">
+<img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" align="left">
+<br/>
+<br/>
 **<font color="red">- 📫 How to reach me: </font>**
 <br/>
 <br/>
@@ -30,8 +37,6 @@ So I'm studying software. <br/>
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align="left" />][instagram]
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/facebook.svg" align="left" />][facebook]
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/disqus.svg" align="left" />][disqus]
-
-
 <br/>
 <br/>
 
