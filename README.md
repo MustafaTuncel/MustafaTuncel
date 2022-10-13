@@ -21,7 +21,7 @@ So I'm studying software. <br/>
 <br/>
 <br/>
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin] 
+[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin]
 [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/stackoverflow.svg" align="left" />][stackoverflow]
 [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left" />][twitter]
 [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align="left" />][instagram]
@@ -31,7 +31,12 @@ So I'm studying software. <br/>
 <br/>
 <br/>
 
+DENEMELER
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin]
 
+[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
+[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin]
 
 <!--
 **MustafaTuncel/MustafaTuncel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
