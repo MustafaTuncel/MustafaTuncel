@@ -22,6 +22,8 @@ So I'm studying software.*<br/>
 <br/>
 <br/>
 [<img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" align="left">][git]
+[<img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" align="left">][markdown]
+[<img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" align="left">][html]
 [<img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" align="left">][python]
 <br/>
 <br/>
@@ -79,4 +81,6 @@ Here are some ideas to get you started:
 [disqus]: https://disqus.com/by/StyleRelaps/
 
 [git]: https://git-scm.com/
+[markdown]: https://www.markdownguide.org/
+[html]: https://html.com/
 [python]: https://www.python.org/
