@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 [github]: https://github.com/MustafaTuncel
 [stackoverflow]: https://stackoverflow.com/users/20082069/
 [twitter]: https://twitter.com/MustafaTuncel93/
-[youtube]: mustafatuncel.1993@gmail.com
+[youtube]: https://www.youtube.com/channel/UCscVDGKFKT4T1kX3F27ieZw
 [instagram]: https://www.instagram.com/tncl.mustafa/
 [facebook]: https://www.facebook.com/Mustafa.Tuncel.05/
 [disqus]: https://disqus.com/by/StyleRelaps/
