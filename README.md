@@ -12,7 +12,7 @@ So I'm studying software.*<br/>
 
 **<font color="orange">- 🌱 I’m currently learning** ```Git, GitHub, Python 3.``` </font> <br/>
 
-**<font color="green">- 👯 I’m looking to collaborate on </font>** `GitHub`
+**<font color="green">- 👯 I’m looking to collaborate on </font>** `GitHub` <br/>
 
 **<font color="blue">- 😄 Pronouns: </font>** <font color="grey">`He/Him.` </font> <br/>
 
@@ -41,6 +41,16 @@ So I'm studying software.*<br/>
 <br/>
 <br/>
 
+<details>
+<summary>:bulb: GitHub Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=MustafaTuncel">
+</details>
+
+<details>
+<summary>:bulb: Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+</details>
+
 
 
 <!--
@@ -57,9 +67,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
 
 
 [linkedin]: https://www.linkedin.com/in/mustafatuncel93/
