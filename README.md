@@ -44,12 +44,12 @@ So I'm studying software.*<br/>
 <br/>
 
 <details>
-<summary>:bulb: GitHub Stats</summary>
+<summary>:point_down: GitHub Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=MustafaTuncel">
 </details>
 
 <details>
-<summary>:bulb: Most Used Languages</summary>
+<summary>:point_down: Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaTuncel&layout=compact">
 </details>
 
