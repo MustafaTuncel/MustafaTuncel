@@ -38,8 +38,8 @@ So I'm studying software.*<br/>
 <br/>
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/youtube.svg" align="left" />][youtube]
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align="left" />][instagram]
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/facebook.svg" align="left" />][facebook]
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/disqus.svg" align="left" />][disqus]
+[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/reddit.svg" align="left" />][reddit]
+<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/gmail.svg" align="left" />
 <br/>
 <br/>
 
@@ -77,8 +77,8 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/MustafaTuncel93/
 [youtube]: https://www.youtube.com/channel/UCscVDGKFKT4T1kX3F27ieZw
 [instagram]: https://www.instagram.com/tncl.mustafa/
-[facebook]: https://www.facebook.com/Mustafa.Tuncel.05/
-[disqus]: https://disqus.com/by/StyleRelaps/
+[reddit]: https://www.reddit.com/user/SofiaPavlovena/
+
 
 [git]: https://git-scm.com/
 [markdown]: https://www.markdownguide.org/
