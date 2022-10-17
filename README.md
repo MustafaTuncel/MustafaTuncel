@@ -39,7 +39,7 @@ So I'm studying software.*<br/>
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/youtube.svg" align="left" />][youtube]
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align="left" />][instagram]
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/reddit.svg" align="left" />][reddit]
-<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/gmail.svg" align="left" />
+[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/gmail.svg" align="left" />][gmail]
 <br/>
 <br/>
 
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 [youtube]: https://www.youtube.com/channel/UCscVDGKFKT4T1kX3F27ieZw
 [instagram]: https://www.instagram.com/tncl.mustafa/
 [reddit]: https://www.reddit.com/user/SofiaPavlovena/
-
+[gmail]: (mustafatuncel.1993@gmail.com)
 
 [git]: https://git-scm.com/
 [markdown]: https://www.markdownguide.org/
