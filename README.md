@@ -38,7 +38,7 @@ So I'm studying software.*<br/>
 <br/>
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/youtube.svg" align="left" />][youtube]
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align="left" />][instagram]
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/reddit.svg" align="left" target="_blank" rel="noopener noreferrer" />][reddit]
+[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/reddit.svg" align="left" />][reddit]
 <img  width="22" src="https://unpkg.com/simple-icons@v7/icons/gmail.svg" align="left" />
 <br/>
 <br/>
