@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 [youtube]: https://www.youtube.com/channel/UCscVDGKFKT4T1kX3F27ieZw
 [instagram]: https://www.instagram.com/tncl.mustafa/
 [reddit]: https://www.reddit.com/user/SofiaPavlovena/
-[gmail]: (mustafatuncel.1993@gmail.com)
+[gmail]: mailto:mustafatuncel.1993@gmail.com
 
 [git]: https://git-scm.com/
 [markdown]: https://www.markdownguide.org/
