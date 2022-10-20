@@ -24,22 +24,22 @@ So I'm studying software.*<br/>
 [<img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" align="left">][git]
 [<img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" align="left">][markdown]
 [<img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" align="left">][html]
-[<img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" align="left">][python]
+[<img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" align="left">][css]
 <br/>
 <br/>
 **<font color="red">- 📫 How to reach me: </font>**
 <br/>
 <br/>
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" target="_blank" rel="noopener noreferrer"/>][linkedin]
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/github.svg" align="left" target="_blank" rel="noopener noreferrer"/>][github]
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/stackoverflow.svg" align="left" target="_blank" rel="noopener noreferrer"/>][stackoverflow]
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left" target="_blank" rel="noopener noreferrer"/>][twitter]
+[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left"/>][linkedin]
+[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/github.svg" align="left"/>][github]
+[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/stackoverflow.svg" align="left"/>][stackoverflow]
+[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left"/>][twitter]
 <br/>
 <br/>
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/youtube.svg" align="left" target="_blank" rel="noopener noreferrer"/>][youtube]
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align="left" target="_blank" rel="noopener noreferrer"/>][instagram]
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/reddit.svg" align="left" target="_blank" rel="noopener noreferrer"/>][reddit]
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/gmail.svg" align="left" target="_blank" rel="noopener noreferrer"/>][gmail]
+[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/youtube.svg" align="left"/>][youtube]
+[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align="left"/>][instagram]
+[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/reddit.svg" align="left"/>][reddit]
+[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/gmail.svg" align="left"/>][gmail]
 <br/>
 <br/>
 
@@ -83,4 +83,4 @@ Here are some ideas to get you started:
 [git]: https://git-scm.com/
 [markdown]: https://www.markdownguide.org/
 [html]: https://html.com/
-[python]: https://www.python.org/
+[css]: https://www.w3.org/Style/CSS/Overview.en.html
