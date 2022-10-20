@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 -->
 
 
-[linkedin]: (https://www.linkedin.com/in/mustafatuncel93/)[:target="_blank"]
+[linkedin]: (https://www.linkedin.com/in/mustafatuncel93/)[target="_blank"]
 [github]: https://github.com/MustafaTuncel
 [stackoverflow]: https://stackoverflow.com/users/20082069/
 [twitter]: https://twitter.com/MustafaTuncel93/
