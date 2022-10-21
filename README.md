@@ -4,13 +4,13 @@
 ## Junior Developer | I'm in learning process.
 
 *~~My real job is accountant~~ but I'm unemployed. <br/>
-So I'm studying software.*<br/>
+So I'm learning software.*<br/>
 <br/>
 **<font color="whiteblack">- :battery: *<ins>My dreams are how I keep up with code.</ins> </font>*** <br/>
 
 **<font color="purple">- 🔭 I’m currently working on** </font> <font color="grey">`README.md & my personal web site.` </font> <br/>
 
-**<font color="orange">- 🌱 I’m currently learning** ```Git, GitHub, Python 3.``` </font> <br/>
+**<font color="orange">- 🌱 I’m currently learning** `HTML, CSS, Javascript.` </font> <br/>
 
 **<font color="green">- 👯 I’m looking to collaborate on </font>** `GitHub` <br/>
 
@@ -20,13 +20,13 @@ So I'm studying software.*<br/>
 
 **<font color="brown">- :computer: Tech I use: </font>**<br/>
 
-[<img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" align="left">][git]
+[<img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" align="left">][git]
 
-[<img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" align="left">][markdown]
+[<img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" align="left">][markdown]
 
-[<img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" align="left">][html]
+[<img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" align="left">][html]
 
-[<img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" align="left">][css]<br/>
+[<img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" align="left">][css]<br/>
 
 **<font color="red">- 📫 How to reach me: </font>**
 
@@ -44,7 +44,7 @@ So I'm studying software.*<br/>
 
 [<img  width="30" src="https://media.giphy.com/media/2Jr8RBjtZaThoTXinC/giphy.gif" align="left"/>][reddit]
 
-[<img  width="30" src="https://media.giphy.com/media/cvJYrdwidlhKy8pGg8/giphy.gif" align="left"/>][gmail]<br/>
+[<img  width="30" src="https://media.giphy.com/media/cvJYrdwidlhKy8pGg8/giphy.gif" align="left"/>][gmail]<br/><br/>
 
 <details>
 <summary>:point_down: GitHub Stats</summary>
