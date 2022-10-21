@@ -1,6 +1,4 @@
-<img src="https://media.giphy.com/media/0FHJ363Octui8Emuul/giphy.gif" align="right" width="400" height="250">
-
-### Hello there 👋
+### Hello there 👋 <img src="https://media.giphy.com/media/0FHJ363Octui8Emuul/giphy.gif" align="right" width="400" height="250">
 ## Junior Developer | I'm in learning process.
 
 *~~My real job is accountant~~ but I'm unemployed. <br/>
