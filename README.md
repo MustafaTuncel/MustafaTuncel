@@ -28,18 +28,14 @@ So I'm studying software.*<br/>
 <br/>
 <br/>
 **<font color="red">- 📫 How to reach me: </font>**
-<br/>
-<br/>
 
 [<img  width="30" src="https://media.giphy.com/media/zkanr8WEJmQFS7Unqg/giphy.gif" align="left"/>][linkedin]
 
 [<img  width="30" src="https://media.giphy.com/media/SzQ3BOAMopzIYX1p0m/giphy.gif" align="left"/>][github]
 
-[<img  width="25" src="https://unpkg.com/simple-icons@v7/icons/stackoverflow.svg" align="left"/>][stackoverflow]
+[<img  width="30" src="https://unpkg.com/simple-icons@v7/icons/stackoverflow.svg" align="left"/>][stackoverflow]
 
-[<img  width="30" src="https://media.giphy.com/media/jV7OJplaoKI2oTw24e/giphy.gif" align="left"/>][twitter]
-<br/>
-<br/>
+[<img  width="30" src="https://media.giphy.com/media/jV7OJplaoKI2oTw24e/giphy.gif" align="left"/>][twitter]<br/>
 
 [<img  width="30" src="https://media.giphy.com/media/mTVOTUQWRy5AyScm2A/giphy.gif" align="left"/>][youtube]
 
