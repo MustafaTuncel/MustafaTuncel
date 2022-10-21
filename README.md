@@ -44,7 +44,7 @@ So I'm learning software.*<br/>
 
 [<img  width="30" src="https://media.giphy.com/media/2Jr8RBjtZaThoTXinC/giphy.gif" align="left"/>][reddit]
 
-[<img  width="30" src="https://media.giphy.com/media/cvJYrdwidlhKy8pGg8/giphy.gif" align="left"/>][gmail]<br/><br/>
+[<img  width="30" src="https://media.giphy.com/media/cvJYrdwidlhKy8pGg8/giphy.gif" align="left"/>][gmail]<br/>
 
 <details>
 <summary>:point_down: GitHub Stats</summary>
