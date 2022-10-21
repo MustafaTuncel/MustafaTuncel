@@ -30,6 +30,10 @@ So I'm studying software.*<br/>
 **<font color="red">- 📫 How to reach me: </font>**
 <br/>
 <br/>
+<iframe src="https://giphy.com/embed/zkanr8WEJmQFS7Unqg" width="25" height="25" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/linkedin-gif-zkanr8WEJmQFS7Unqg"></a></p>
+
+
+
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left"/>][linkedin]
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/github.svg" align="left"/>][github]
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/stackoverflow.svg" align="left"/>][stackoverflow]
