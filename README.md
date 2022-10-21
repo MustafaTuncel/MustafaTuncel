@@ -28,21 +28,14 @@ So I'm learning software.*<br/>
 
 **<font color="red">- 📫 How to reach me: </font>**
 
-[<img  width="30" src="https://media.giphy.com/media/zkanr8WEJmQFS7Unqg/giphy.gif" align="left"/>][linkedin]
-
-[<img  width="30" src="https://media.giphy.com/media/SzQ3BOAMopzIYX1p0m/giphy.gif" align="left"/>][github]
-
-[<img  width="30" src="https://media.giphy.com/media/jV7OJplaoKI2oTw24e/giphy.gif" align="left"/>][twitter]
-
-[<img  width="30" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" align="left"/>][stackoverflow]<br/>
-
-[<img  width="30" src="https://media.giphy.com/media/mTVOTUQWRy5AyScm2A/giphy.gif" align="left"/>][youtube]
-
-[<img  width="30" src="https://media.giphy.com/media/SlkCccgw5zBZtBkoOG/giphy.gif" align="left"/>][instagram]
-
-[<img  width="30" src="https://media.giphy.com/media/2Jr8RBjtZaThoTXinC/giphy.gif" align="left"/>][reddit]
-
-[<img  width="30" src="https://media.giphy.com/media/cvJYrdwidlhKy8pGg8/giphy.gif" align="left"/>][gmail]<br/><br/>
+[<img  width="45" src="https://media.giphy.com/media/zkanr8WEJmQFS7Unqg/giphy.gif" align="left"/>][linkedin]
+[<img  width="45" src="https://media.giphy.com/media/SzQ3BOAMopzIYX1p0m/giphy.gif" align="left"/>][github]
+[<img  width="45" src="https://media.giphy.com/media/jV7OJplaoKI2oTw24e/giphy.gif" align="left"/>][twitter]
+[<img  width="45" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" align="left"/>][stackoverflow]<br/>
+[<img  width="45" src="https://media.giphy.com/media/mTVOTUQWRy5AyScm2A/giphy.gif" align="left"/>][youtube]
+[<img  width="45" src="https://media.giphy.com/media/SlkCccgw5zBZtBkoOG/giphy.gif" align="left"/>][instagram]
+[<img  width="45" src="https://media.giphy.com/media/2Jr8RBjtZaThoTXinC/giphy.gif" align="left"/>][reddit]
+[<img  width="45" src="https://media.giphy.com/media/cvJYrdwidlhKy8pGg8/giphy.gif" align="left"/>][gmail]<br/><br/>
 
 <details>
 <summary>:point_down: GitHub Stats</summary>
