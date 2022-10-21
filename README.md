@@ -18,15 +18,16 @@ So I'm studying software.*<br/>
 
 **<font color="yellow">- ⚡ Fun fact: </font>** <font color="grey">`I'm a Fitness, Vocal Trance, Reggae Music, Computer Games, Role-Playing Games & Board Games enthusiast.` </font> <br/>
 
-**<font color="brown">- :computer: Tech I use: </font>**
-<br/>
-<br/>
+**<font color="brown">- :computer: Tech I use: </font>**<br/>
+
 [<img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" align="left">][git]
+
 [<img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" align="left">][markdown]
+
 [<img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" align="left">][html]
-[<img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" align="left">][css]
-<br/>
-<br/>
+
+[<img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" align="left">][css]<br/>
+
 **<font color="red">- 📫 How to reach me: </font>**
 
 [<img  width="30" src="https://media.giphy.com/media/zkanr8WEJmQFS7Unqg/giphy.gif" align="left"/>][linkedin]
@@ -43,23 +44,7 @@ So I'm studying software.*<br/>
 
 [<img  width="30" src="https://media.giphy.com/media/2Jr8RBjtZaThoTXinC/giphy.gif" align="left"/>][reddit]
 
-[<img  width="30" src="https://media.giphy.com/media/cvJYrdwidlhKy8pGg8/giphy.gif" align="left"/>][gmail]
-<br/>
-<br/>
-
-
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left"/>][linkedin]
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/github.svg" align="left"/>][github]
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/stackoverflow.svg" align="left"/>][stackoverflow]
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left"/>][twitter]
-<br/>
-<br/>
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/youtube.svg" align="left"/>][youtube]
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align="left"/>][instagram]
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/reddit.svg" align="left"/>][reddit]
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/gmail.svg" align="left"/>][gmail]
-<br/>
-<br/>
+[<img  width="30" src="https://media.giphy.com/media/cvJYrdwidlhKy8pGg8/giphy.gif" align="left"/>][gmail]<br/>
 
 <details>
 <summary>:point_down: GitHub Stats</summary>
