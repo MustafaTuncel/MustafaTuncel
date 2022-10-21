@@ -34,7 +34,7 @@ So I'm learning software.*<br/>
 
 [<img  width="30" src="https://media.giphy.com/media/jV7OJplaoKI2oTw24e/giphy.gif" align="left"/>][twitter]
 
-[<img  width="30" src="https://unpkg.com/simple-icons@v7/icons/stackoverflow.svg" align="left"/>][stackoverflow]<br/>
+[<img  width="30" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" align="left"/>][stackoverflow]<br/>
 
 [<img  width="30" src="https://media.giphy.com/media/mTVOTUQWRy5AyScm2A/giphy.gif" align="left"/>][youtube]
 
@@ -42,7 +42,7 @@ So I'm learning software.*<br/>
 
 [<img  width="30" src="https://media.giphy.com/media/2Jr8RBjtZaThoTXinC/giphy.gif" align="left"/>][reddit]
 
-[<img  width="30" src="https://media.giphy.com/media/cvJYrdwidlhKy8pGg8/giphy.gif" align="left"/>][gmail]<br/>
+[<img  width="30" src="https://media.giphy.com/media/cvJYrdwidlhKy8pGg8/giphy.gif" align="left"/>][gmail]<br/><br/>
 
 <details>
 <summary>:point_down: GitHub Stats</summary>
