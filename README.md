@@ -38,14 +38,18 @@ So I'm learning software.*<br/>
 
 <details>
 <summary>:point_down: GitHub Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=MustafaTuncel">
+<img src="https://github-readme-stats.vercel.app/api?username=MustafaTuncel&theme=default" alt="My GitHub Stats">
 </details>
 
 <details>
 <summary>:point_down: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaTuncel&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaTuncel&theme=default&layout=compact" alt="My Most Used Languages">
 </details>
 
+<details>
+<summary>:point_down: Contributions & Streaks</summary>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mustafatuncel&theme=ayu-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My Contributions & Streaks">
+</details>
 
 
 <!--
