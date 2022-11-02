@@ -1,4 +1,4 @@
-[![Header](https://github.com/MustafaTuncel/MustafaTuncel/blob/ab9b13091a4d536512dd05a152119b20bce5187d/Mia%20Wallace%20Banner.png "Header")](https://mustafatuncel.github.io/)
+[![header](https://github.com/MustafaTuncel/MustafaTuncel/blob/ab9b13091a4d536512dd05a152119b20bce5187d/Mia%20Wallace%20Banner.png "Mia Wallace")](https://mustafatuncel.github.io/)
 
 ### Hello there 👋 <img src="https://media.giphy.com/media/0FHJ363Octui8Emuul/giphy.gif" align="right" width="400" height="250">
 ## Junior Developer | I'm in learning process.
