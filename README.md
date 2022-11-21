@@ -23,7 +23,8 @@ So I'm studying software.*<br/>
 [<img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" align="left">][git]
 [<img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" align="left">][markdown]
 [<img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" align="left">][html]
-[<img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" align="left">][css]<br/>
+[<img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" align="left">][css]
+[<img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" align="left">][js]<br/>
 
 **<font color="red">- 📫 How to reach me: </font>**
 
@@ -81,3 +82,5 @@ Here are some ideas to get you started:
 [markdown]: https://www.markdownguide.org/
 [html]: https://html.com/
 [css]: https://www.w3.org/Style/CSS/Overview.en.html
+
+[js]: https://www.javascript.com/
