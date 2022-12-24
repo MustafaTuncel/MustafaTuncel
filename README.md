@@ -12,7 +12,7 @@ So I'm studying software (Front-End Development).*<br/>
 
 **<font color="orange">- 🌱 I’m currently learning** `Javascript.` </font> <br/>
 
-**<font color="green">- 👯 I’m looking to collaborate on </font>** `GitHub` <br/>
+**<font color="green">- 👯 I’m looking to collaborate on </font>** `GitHub.` <br/>
 
 **<font color="blue">- 😄 Pronouns: </font>** <font color="grey">`He/Him.` </font> <br/>
 
