@@ -3,14 +3,14 @@
 ### Hello there 👋 <img src="https://media.giphy.com/media/0FHJ363Octui8Emuul/giphy.gif" align="right" width="400" height="250">
 ## Junior Developer | I'm in learning process.
 
-*~~My real job is accountant~~ but I'm unemployed. <br/>
-So I'm studying software.*<br/>
+*~~My main job is accountant~~ but I'm unemployed. <br/>
+So I'm studying software (Front-End Development).*<br/>
 <br/>
 **<font color="whiteblack">- :battery: *<ins>My dreams are how I keep up with code.</ins> </font>*** <br/>
 
 **<font color="purple">- 🔭 I’m currently working on** </font> <font color="grey">`README.md & my personal web site.` </font> <br/>
 
-**<font color="orange">- 🌱 I’m currently learning** `HTML, CSS, Javascript.` </font> <br/>
+**<font color="orange">- 🌱 I’m currently learning** `Javascript.` </font> <br/>
 
 **<font color="green">- 👯 I’m looking to collaborate on </font>** `GitHub` <br/>
 
