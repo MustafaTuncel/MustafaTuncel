@@ -4,7 +4,7 @@
 
 *Hi, I'm Mustafa. I was born in İstanbul in 1993. I'm Turkish and living in Turkey/Tekirdağ. My main job is accountant but I'm unemployed, so I'm decided to learn web development. What I learned learned by own as online. I'm still continue and I will...*
 
-***- <font color="darkorange">Fun fact:*** </font> <i>I'm RPG, PC & Board Games enthusiast. Also, I'm interesting with Fitness, Vocal Trance, Reggae & Rap music. I do sports at every opportunity. Lastly, I love anime, animals & art.</i>
+***- <font color="darkorange">Fun fact:*** </font> <i>I'm RPG, PC & Board Games enthusiast.<br> Also, I'm interesting with Fitness, Vocal Trance, Reggae & Rap music.<br> I do sports at every opportunity. Lastly, I love anime, animals & art.</i>
 
 <hr>
 
