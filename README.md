@@ -4,7 +4,7 @@
 
 *Hi, I'm Mustafa. I was born in İstanbul in 1993. I'm Turkish and living in Turkey/Tekirdağ. My main job is accountant but I'm unemployed, so I'm decided to learn web development. What I learned learned by own as online. I'm still continue and I will...*
 
-***- <font color="darkorange">Fun fact:*** </font> <i>I'm RPG, PC & Board Games enthusiast.<br> Also, I'm interesting with Fitness, Vocal Trance, Reggae & Rap music.<br> I do sports at every opportunity. Lastly, I love anime, animals & art.</i>
+***- <font color="darkorange">Fun fact:*** </font> <i>I'm RPG, PC & Board Games enthusiast. Also, I'm interesting with Fitness, Vocal Trance, Reggae & Rap music. I do sports at every opportunity. Lastly, I love anime, animals & art.</i>
 
 <hr>
 
@@ -66,10 +66,10 @@
 <img align="left" width="40px" alt="js" title="JS" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a><br><br><br>
 
 
-***- <font color="green">I’m currently working on*** </font> `README.md & my personal web site.`
-***- <font color="purple">I’m currently learning*** </font> `Javascript.`
-***- <font color="darkblue">I’m looking to collaborate on*** </font> `GitHub.`
-***- <font color="red">Pronouns:*** </font> `He/Him.`
+***- <font color="green">I’m currently working on*** </font> `README.md & my personal web site.`<br>
+***- <font color="purple">I’m currently learning*** </font> `Javascript.`<br>
+***- <font color="darkblue">I’m looking to collaborate on*** </font> `GitHub.`<br>
+***- <font color="red">Pronouns:*** </font> `He/Him.`<br><br>
 
 
 <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaTuncel&theme=default&layout=compact" alt="My Most Used Languages">
