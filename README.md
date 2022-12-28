@@ -11,7 +11,7 @@
 ***- Fun fact:*** <i>I'm RPG, PC & Board Games enthusiast. Also, I'm interesting with Fitness, Vocal Trance, Reggae & Rap music. I do sports at every opportunity. Lastly, I love anime, animals & art.</i>
 
 
-<h2>My Social Media Accounts</h2>
+<h2>My Social Media Accounts</h2>1
 
 <a href="https://www.linkedin.com/in/mustafatuncel93/" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" width="30px" alt="linkedin" title="Linked In" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"></img></a>
