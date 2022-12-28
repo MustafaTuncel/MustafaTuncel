@@ -1,57 +1,83 @@
-[![Mia Wallace](https://github.com/MustafaTuncel/MustafaTuncel/blob/ab9b13091a4d536512dd05a152119b20bce5187d/Mia%20Wallace%20Banner.png "Mia Wallace")](https://mustafatuncel.github.io/)
+<h1>Mustafa Tuncel</h1>
 
-### Hello there 👋 <img src="https://media.giphy.com/media/0FHJ363Octui8Emuul/giphy.gif" align="right" width="400" height="250">
-## Junior Developer | I'm in learning process.
+**``Junior Developer | Front-End Web Developer``**
 
-*~~My main job is accountant~~ but I'm unemployed. <br/>
-So I'm studying software (Front-End Development).*<br/>
-<br/>
-**<font color="whiteblack">- :battery: *<ins>My dreams are how I keep up with code.</ins> </font>*** <br/>
+*Hi, I'm Mustafa. I was born in İstanbul in 1993. I'm Turkish and living in Turkey/Tekirdağ. My main job is accountant but I'm unemployed, so I'm decided to learn web development. What I learned learned by own as online. I'm still continue and I will...*
 
-**<font color="purple">- 🔭 I’m currently working on** </font> <font color="grey">`README.md & my personal web site.` </font> <br/>
+<hr>
 
-**<font color="orange">- 🌱 I’m currently learning** `Javascript.` </font> <br/>
+<h2>My Social Media Accounts</h2>
 
-**<font color="green">- 👯 I’m looking to collaborate on </font>** `GitHub.` <br/>
+<a href="https://www.linkedin.com/in/mustafatuncel93/" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" width="40px" alt="linkedin" title="Linked In" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"></img></a>
 
-**<font color="blue">- 😄 Pronouns: </font>** <font color="grey">`He/Him.` </font> <br/>
+<a href="https://github.com/MustafaTuncel" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" width="40px" alt="github" title="GitHub" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></img></a>
 
-**<font color="yellow">- ⚡ Fun fact: </font>** <font color="grey">`I'm a Fitness, Vocal Trance, Reggae Music, Computer Games, Role-Playing Games & Board Games enthusiast.` </font> <br/>
+<a href="https://stackoverflow.com/users/20082069/" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" width="40px" alt="stackoverflow" title="Stack Overflow" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg"></img></a>
 
-**<font color="brown">- :computer: Tech I use: </font>**<br/>
+<a href="mailto:mustafatuncel.1993@gmail.com" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" width="40px" alt="gmail" title="Gmail" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></img></a>
 
-[<img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" align="left">][git]
-[<img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" align="left">][markdown]
-[<img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" align="left">][html]
-[<img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" align="left">][css]
-[<img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" align="left">][js]<br/>
+<a href="https://twitter.com/MustafaTuncel93/" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" width="40px" alt="twitter" title="Twitter" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"></img></a>
 
-**<font color="red">- 📫 How to reach me: </font>**
+<a href="https://www.instagram.com/tncl.mustafa/" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" width="40px" alt="instagram" title="Instagram" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></img></a>
 
-[<img  width="30" src="https://media.giphy.com/media/zkanr8WEJmQFS7Unqg/giphy.gif" align="left"/>][linkedin]
-[<img  width="30" src="https://media.giphy.com/media/SzQ3BOAMopzIYX1p0m/giphy.gif" align="left"/>][github]
-[<img  width="30" src="https://media.giphy.com/media/jV7OJplaoKI2oTw24e/giphy.gif" align="left"/>][twitter]
-[<img  width="30" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" align="left"/>][stackoverflow]<br/><br/>
-[<img  width="30" src="https://media.giphy.com/media/mTVOTUQWRy5AyScm2A/giphy.gif" align="left"/>][youtube]
-[<img  width="30" src="https://media.giphy.com/media/SlkCccgw5zBZtBkoOG/giphy.gif" align="left"/>][instagram]
-[<img  width="30" src="https://media.giphy.com/media/2Jr8RBjtZaThoTXinC/giphy.gif" align="left"/>][reddit]
-[<img  width="30" src="https://media.giphy.com/media/cvJYrdwidlhKy8pGg8/giphy.gif" align="left"/>][gmail]<br/><br/>
+<a href="https://www.reddit.com/user/SofiaPavlovena/" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" width="40px" alt="reddit" title="Reddit" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg"></img></a>
 
-<details>
-<summary>:point_down: GitHub Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=MustafaTuncel&theme=default" alt="My GitHub Stats">
-</details>
+<a href="https://www.youtube.com/channel/UCscVDGKFKT4T1kX3F27ieZw" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" width="40px" alt="youtube" title="Youtube" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"></img></a>
 
-<details>
-<summary>:point_down: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaTuncel&theme=default&layout=compact" alt="My Most Used Languages">
-</details>
+<a href="https://open.spotify.com/user/sofiapavlovena" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" width="40px" alt="spotify" title="Spotify" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg"></img></a>
 
-<details>
-<summary>:point_down: Contributions & Streaks</summary>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mustafatuncel&theme=ayu-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My Contributions & Streaks">
-</details>
+<a href="https://steamcommunity.com/id/SofiaPavlovena/" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" width="40px" alt="steam" title="Steam" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg"></img></a><br><br>
 
+<hr>
+
+<h2>Languages & Tools</h2>
+
+<a href="https://code.visualstudio.com" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" width="40px" alt="vsc" title="Visual Studio Code" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
+
+<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" width="40px" alt="git" title="Git" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></a>
+
+<a href="https://www.markdownguide.org/" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" width="40px" alt="markdown" title="Markdown" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/></a>
+
+<a href="https://github.com" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" width="40px" alt="github" title="GitHub"  style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
+
+<a href="https://html.com/" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" width="40px" alt="html" title="HTML" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
+
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" width="40px" alt="css" title="CSS" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
+
+<a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" width="40px" alt="js" title="JS" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a><br><br>
+
+<hr>
+
+***- <font color="green">I’m currently working on*** </font> `README.md & my personal web site.`
+***- <font color="purple">I’m currently learning*** </font> `Javascript.`
+***- <font color="darkblue">I’m looking to collaborate on*** </font> `GitHub.`
+***- <font color="red">Pronouns:*** </font> `He/Him.`
+***- <font color="darkorange">Fun fact:*** </font> `I'm PC games, RPG & Board Games enthusiast. Also, I'm interesting with Fitness, Vocal Trance, Reggae & Rap music. I do sports at every opportunity. Lastly, I love anime, animals & art.`
+
+<hr>
+
+<img width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaTuncel&theme=default&layout=compact" alt="My Most Used Languages">
+<br>
+<img width="600px" src="https://github-readme-streak-stats.herokuapp.com?user=mustafatuncel&theme=ayu-light&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="My Contributions & Streaks">
+<br>
+<img width="600px" src="https://github-readme-stats.vercel.app/api?username=MustafaTuncel&theme=default" alt="My GitHub Stats">
 
 <!--
 **MustafaTuncel/MustafaTuncel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -82,5 +108,4 @@ Here are some ideas to get you started:
 [markdown]: https://www.markdownguide.org/
 [html]: https://html.com/
 [css]: https://www.w3.org/Style/CSS/Overview.en.html
-
 [js]: https://www.javascript.com/
