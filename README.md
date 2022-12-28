@@ -17,7 +17,7 @@
 <img align="left" width="30px" alt="linkedin" title="Linked In" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"></img></a>
 
 <a href="https://github.com/MustafaTuncel" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" width="30px" alt="github" title="GitHub" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></img></a>
+<img align="left" width="30px" alt="github" title="GitHub" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"></img></a>
 
 <a href="https://stackoverflow.com/users/20082069/" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" width="30px" alt="stackoverflow" title="Stack Overflow" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg"></img></a>
