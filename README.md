@@ -76,6 +76,12 @@
 ### Latest Youtube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![GP vs Mundo & Shaco   Ağır Outplay İçerir](https://ytcards.demolab.com/?id=4anNBWMmW1g&title=GP+vs+Mundo+%26+Shaco+++A%C4%9F%C4%B1r+Outplay+%C4%B0%C3%A7erir&lang=en&timestamp=1641482794&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "GP vs Mundo & Shaco   Ağır Outplay İçerir")](https://www.youtube.com/watch?v=4anNBWMmW1g)
+[![Bot PRE Thresh Hitbox Hook 2 7 24 TR1 644812356 01](https://ytcards.demolab.com/?id=QE4O6ne1I8A&title=Bot+PRE+Thresh+Hitbox+Hook+2+7+24+TR1+644812356+01&lang=en&timestamp=1513372552&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Bot PRE Thresh Hitbox Hook 2 7 24 TR1 644812356 01")](https://www.youtube.com/watch?v=QE4O6ne1I8A)
+[![Bot PRE Thresh HitBox Hook Double Kill 7 24 TR1 643793512 01](https://ytcards.demolab.com/?id=Aighd60ol_E&title=Bot+PRE+Thresh+HitBox+Hook+Double+Kill+7+24+TR1+643793512+01&lang=en&timestamp=1513168046&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Bot PRE Thresh HitBox Hook Double Kill 7 24 TR1 643793512 01")](https://www.youtube.com/watch?v=Aighd60ol_E)
+[![Ceylanı Gözüne Kestirmiş Aslan Gibi 7 24 TR1 643793512 02](https://ytcards.demolab.com/?id=Du3mw2IXLfs&title=Ceylan%C4%B1+G%C3%B6z%C3%BCne+Kestirmi%C5%9F+Aslan+Gibi+7+24+TR1+643793512+02&lang=en&timestamp=1513167942&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Ceylanı Gözüne Kestirmiş Aslan Gibi 7 24 TR1 643793512 02")](https://www.youtube.com/watch?v=Du3mw2IXLfs)
+[![Yasuo Carry Penta Kill 7 20 TR1 621447170 02](https://ytcards.demolab.com/?id=5ebdxMpdC70&title=Yasuo+Carry+Penta+Kill+7+20+TR1+621447170+02&lang=en&timestamp=1508674489&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Yasuo Carry Penta Kill 7 20 TR1 621447170 02")](https://www.youtube.com/watch?v=5ebdxMpdC70)
+[![Welcome To Hell Çekirge 7 19 TR1 618946269 03](https://ytcards.demolab.com/?id=jrUQhcCbXR0&title=Welcome+To+Hell+%C3%87ekirge+7+19+TR1+618946269+03&lang=en&timestamp=1507660358&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Welcome To Hell Çekirge 7 19 TR1 618946269 03")](https://www.youtube.com/watch?v=jrUQhcCbXR0)
 <!-- END YOUTUBE-CARDS -->
 
 #
