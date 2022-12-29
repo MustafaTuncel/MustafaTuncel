@@ -12,8 +12,6 @@
 
 
 
-
-
 <!-- CUSTOM ICON BADGES COLOR LIST
 brightgreen, green, yellowgreen, yellow, orange, red, blue, lightgrey, 
 success, important, critical, informational, inactive, 
@@ -121,7 +119,6 @@ blueviolet, ff69b4 (pink), 9cf (lightblue)
 ### Latest Youtube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
 <!-- END YOUTUBE-CARDS -->
 
 #
