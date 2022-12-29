@@ -4,11 +4,51 @@
 
 *Hi, I'm Mustafa. I was born in İstanbul in 1993. I'm Turkish and living in Turkey/Tekirdağ. My main job is accountant but I'm unemployed, so I'm decided to learn web development. What I learned learned by own as online. I'm still continue and I will...*
 
-***- I’m currently working on*** <i>My Github profile & personal web site.</i><br>
-***- I’m currently learning*** <i>Javascript.</i><br>
-***- I’m looking to collaborate on*** <i>GitHub.</i><br>
-***- Pronouns:*** <i>He/Him.</i><br>
-***- Fun fact:*** <i>I'm RPG, PC & Board Games enthusiast. Also, I'm interesting with Fitness, Vocal Trance, Reggae & Rap music. I do sports at every opportunity. Lastly, I love anime, animals & art.</i>
+***- I’m currently working on*** *My Github profile & personal web site.*<br>
+***- I’m currently learning*** *Javascript.*<br>
+***- I’m looking to collaborate on*** *GitHub.*<br>
+***- Pronouns:*** *He/Him.*<br>
+***- Fun fact:*** *I'm RPG, PC & Board Games enthusiast. Also, I'm interesting with Fitness, Vocal Trance, Reggae & Rap music. I do sports at every opportunity. Lastly, I love anime, animals & art.*
+
+<!-- CUSTOM ICON BADGES COLOR LIST
+brightgreen, green, yellowgreen, yellow, orange, red, blue, lightgrey, 
+success, important, critical, informational, inactive, 
+blueviolet, ff69b4 (pink), 9cf (lightblue)
+-->
+
+<a href="www.youtube.com">
+<img align="left" src="https://img.shields.io/badge/custom-badge-brightgreen.svg?logo=paintbrush&logoColor=white"/></a>
+<a href="www.youtube.com">
+<img align="left" src="https://img.shields.io/badge/custom-badge-green.svg?logo=paintbrush&logoColor=white"/></a>
+<a href="www.youtube.com">
+<img align="left" src="https://img.shields.io/badge/custom-badge-yellowgreen.svg?logo=paintbrush&logoColor=white"/></a>
+<a href="www.youtube.com">
+<img align="left" src="https://img.shields.io/badge/custom-badge-yellow.svg?logo=paintbrush&logoColor=white"/></a>
+<a href="www.youtube.com">
+<img align="left" src="https://img.shields.io/badge/custom-badge-orange.svg?logo=paintbrush&logoColor=white"/></a>
+<a href="www.youtube.com">
+<img align="left" src="https://img.shields.io/badge/custom-badge-red.svg?logo=paintbrush&logoColor=white"/></a>
+<a href="www.youtube.com">
+<img align="left" src="https://img.shields.io/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white"/></a>
+<a href="www.youtube.com">
+<img align="left" src="https://img.shields.io/badge/custom-badge-lightgrey.svg?logo=paintbrush&logoColor=white"/></a>
+<a href="www.youtube.com">
+<img align="left" src="https://img.shields.io/badge/custom-badge-success.svg?logo=paintbrush&logoColor=white"/></a>
+<a href="www.youtube.com">
+<img align="left" src="https://img.shields.io/badge/custom-badge-important.svg?logo=paintbrush&logoColor=white"/></a>
+<a href="www.youtube.com">
+<img align="left" src="https://img.shields.io/badge/custom-badge-critical.svg?logo=paintbrush&logoColor=white"/></a>
+<a href="www.youtube.com">
+<img align="left" src="https://img.shields.io/badge/custom-badge-informational.svg?logo=paintbrush&logoColor=white"/></a>
+<a href="www.youtube.com">
+<img align="left" src="https://img.shields.io/badge/custom-badge-inactive.svg?logo=paintbrush&logoColor=white"/></a>
+<a href="www.youtube.com">
+<img align="left" src="https://img.shields.io/badge/custom-badge-blueviolet.svg?logo=paintbrush&logoColor=white"/></a>
+<a href="www.youtube.com">
+<img align="left" src="https://img.shields.io/badge/custom-badge-ff69b4.svg?logo=paintbrush&logoColor=white"/></a>
+<a href="www.youtube.com">
+<img align="left" src="https://img.shields.io/badge/custom-badge-9cf.svg?logo=paintbrush&logoColor=white"/></a>
+<br>
 
 #
 
