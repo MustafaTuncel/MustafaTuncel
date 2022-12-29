@@ -17,25 +17,25 @@ blueviolet, ff69b4 (pink), 9cf (lightblue)
 -->
 
 <a href="#" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://custom-icon-badges.demolab.com/badge/-Issues-ff69b4.svg?logo=issue-opened&logoColor=white"/></a>
+<img align="left" src="https://custom-icon-badges.demolab.com/badge/-Issues-ff69b4.svg?style=for-the-badge&logo=issue-opened&logoColor=white"/></a>
 
 <a href="#" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://custom-icon-badges.demolab.com/badge/-Forks-orange.svg?logo=repo-forked&logoColor=white"/></a>
+<img align="left" src="https://custom-icon-badges.demolab.com/badge/-Forks-orange.svg?style=for-the-badge&logo=repo-forked&logoColor=white"/></a>
 
 <a href="https://github.com/MustafaTuncel?tab=stars" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://custom-icon-badges.demolab.com/badge/-Stars-yellow.svg?logo=star&logoColor=white"/></a>
+<img align="left" src="https://custom-icon-badges.demolab.com/badge/-Stars-yellow.svg?style=for-the-badge&logo=star&logoColor=white"/></a>
 
 <a href="#" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://custom-icon-badges.demolab.com/badge/-Commits-green.svg?logo=git-commit&logoColor=white"/></a>
+<img align="left" src="https://custom-icon-badges.demolab.com/badge/-Commits-green.svg?style=for-the-badge&logo=git-commit&logoColor=white"/></a>
 
 <a href="https://github.com/MustafaTuncel?tab=repositories" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://custom-icon-badges.demolab.com/badge/-Repositories-blue.svg?logo=repo&logoColor=white"/></a>
+<img align="left" src="https://custom-icon-badges.demolab.com/badge/-Repositories-blue.svg?style=for-the-badge&logo=repo&logoColor=white"/></a>
 
 <a href="#" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://custom-icon-badges.demolab.com/badge/-Pull Requests-purple.svg?logo=git-pull-request&logoColor=white"/></a>
+<img align="left" src="https://custom-icon-badges.demolab.com/badge/-Pull Requests-purple.svg?style=for-the-badge&logo=git-pull-request&logoColor=white"/></a>
 
 <a href="mailto:mustafatuncel.1993@gmail.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://custom-icon-badges.demolab.com/badge/-Mail-red.svg?logo=mail&logoColor=white"/></a><br>
+<img align="left" src="https://custom-icon-badges.demolab.com/badge/-Mail-red.svg?style=for-the-badge&logo=mail&logoColor=white"/></a><br>
 
 #
 
