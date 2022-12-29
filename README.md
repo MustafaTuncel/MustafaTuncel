@@ -35,7 +35,7 @@ blueviolet, ff69b4 (pink), 9cf (lightblue)
 <img align="left" src="https://custom-icon-badges.demolab.com/badge/Pull-purple.svg?style=for-the-badge&logo=git-pull-request&logoColor=white"/></a>
 
 <a href="mailto:mustafatuncel.1993@gmail.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://custom-icon-badges.demolab.com/badge/Mail-red.svg?style=for-the-badge&logo=mail&logoColor=white"/></a><br>
+<img align="left" src="https://custom-icon-badges.demolab.com/badge/Mail-red.svg?style=for-the-badge&logo=mail&logoColor=white"/></a><br<br>
 
 #
 
@@ -60,8 +60,7 @@ blueviolet, ff69b4 (pink), 9cf (lightblue)
 <img align="left" width="30px" alt="css" title="CSS" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
 
 <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" width="30px" alt="js" title="JS" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
-<br>
+<img align="left" width="30px" alt="js" title="JS" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a><br><br>
 
 #
 
@@ -96,7 +95,7 @@ blueviolet, ff69b4 (pink), 9cf (lightblue)
 
 <a href="https://steamcommunity.com/id/SofiaPavlovena/" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" width="30px" alt="steam" title="Steam" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg"></img></a>
-<br>
+<br><br>
 
 #
 
@@ -106,7 +105,7 @@ blueviolet, ff69b4 (pink), 9cf (lightblue)
 <!-- END YOUTUBE-CARDS -->
 
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" style="padding-right:1px;" src="https://custom-icon-badges.demolab.com/badge/Subscribe-red.svg?style=for-the-badge&logo=issue-opened&logoColor=white"/></a><br>
+<img align="left" style="padding-right:1px;" src="https://custom-icon-badges.demolab.com/badge/Subscribe-red.svg?style=for-the-badge&logo=issue-opened&logoColor=white"/></a><br><br>
 
 #
 
