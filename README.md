@@ -17,7 +17,7 @@ blueviolet, ff69b4 (pink), 9cf (lightblue)
 -->
 
 <a href="#" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://custom-icon-badges.demolab.com/badge/Issue-ff69b4.svg?logo=issue-opened&logoColor=white"/></a>
+<img align="left" src="https://custom-icon-badges.demolab.com/badge/Issue-ff0000.svg?logo=issue-opened&logoColor=white"/></a>
 
 <a href="#" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" src="https://custom-icon-badges.demolab.com/badge/Fork-orange.svg?logo=repo-forked&logoColor=white"/></a>
@@ -35,7 +35,7 @@ blueviolet, ff69b4 (pink), 9cf (lightblue)
 <img align="left" src="https://custom-icon-badges.demolab.com/badge/Pull-purple.svg?logo=git-pull-request&logoColor=white"/></a>
 
 <a href="mailto:mustafatuncel.1993@gmail.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://custom-icon-badges.demolab.com/badge/Mail-red.svg?logo=mail&logoColor=white"/></a><br
+<img align="left" src="https://custom-icon-badges.demolab.com/badge/Mail-red.svg?logo=mail&logoColor=white"/></a><br>
 
 #
 
@@ -105,7 +105,7 @@ blueviolet, ff69b4 (pink), 9cf (lightblue)
 <!-- END YOUTUBE-CARDS -->
 
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" style="padding-right:1px;" src="https://custom-icon-badges.demolab.com/badge/Subscribe-red.svg?style=for-the-badge&logo=issue-opened&logoColor=white"/></a><br>
+<img align="left" src="https://custom-icon-badges.demolab.com/badge/Subscribe-ff0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a><br>
 
 #
 
