@@ -1,4 +1,4 @@
-<h1>Mustafa Tuncel</h1>
+# Mustafa Tuncel
 
 **``Junior Developer | Front-End Web Development``**
 
@@ -10,8 +10,34 @@
 ***- Pronouns:*** <i>He/Him.</i><br>
 ***- Fun fact:*** <i>I'm RPG, PC & Board Games enthusiast. Also, I'm interesting with Fitness, Vocal Trance, Reggae & Rap music. I do sports at every opportunity. Lastly, I love anime, animals & art.</i>
 
+#
 
-<h2>My Social Media Accounts</h2>
+### Languages and Tools
+
+<a href="https://code.visualstudio.com" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" width="30px" alt="vsc" title="Visual Studio Code" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
+
+<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" width="30px" alt="git" title="Git" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></a>
+
+<a href="https://www.markdownguide.org/" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" width="30px" alt="markdown" title="Markdown" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/></a>
+
+<a href="https://github.com" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" width="30px" alt="github" title="GitHub"  style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"/></a>
+
+<a href="https://html.com/" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" width="30px" alt="html" title="HTML" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
+
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" width="30px" alt="css" title="CSS" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
+
+<a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" width="30px" alt="js" title="JS" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
+
+#
+
+### Social Media Accounts
 
 <a href="https://www.linkedin.com/in/mustafatuncel93/" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" width="30px" alt="linkedin" title="Linked In" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"></img></a>
@@ -41,32 +67,9 @@
 <img align="left" width="30px" alt="spotify" title="Spotify" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg"></img></a>
 
 <a href="https://steamcommunity.com/id/SofiaPavlovena/" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" width="30px" alt="steam" title="Steam" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg"></img></a><br>
+<img align="left" width="30px" alt="steam" title="Steam" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg"></img></a>
 
-
-<h2>Languages & Tools I Use</h2>
-
-<a href="https://code.visualstudio.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" width="30px" alt="vsc" title="Visual Studio Code" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
-
-<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" width="30px" alt="git" title="Git" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></a>
-
-<a href="https://www.markdownguide.org/" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" width="30px" alt="markdown" title="Markdown" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/></a>
-
-<a href="https://github.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" width="30px" alt="github" title="GitHub"  style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"/></a>
-
-<a href="https://html.com/" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" width="30px" alt="html" title="HTML" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
-
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" width="30px" alt="css" title="CSS" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
-
-<a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" width="30px" alt="js" title="JS" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a><br><br><br>
-
+#
 
 <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaTuncel&theme=default&layout=compact" alt="My Most Used Languages"><br>
 
