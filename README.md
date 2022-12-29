@@ -34,6 +34,7 @@
 
 <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" width="30px" alt="js" title="JS" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
+<br>
 
 #
 
@@ -68,6 +69,7 @@
 
 <a href="https://steamcommunity.com/id/SofiaPavlovena/" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" width="30px" alt="steam" title="Steam" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg"></img></a>
+<br>
 
 #
 
