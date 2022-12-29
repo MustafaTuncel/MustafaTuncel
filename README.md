@@ -63,11 +63,11 @@ blueviolet, ff69b4 (pink), 9cf (lightblue)
 <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" width="30px" alt="git" title="Git" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></a>
 
-<a href="https://www.markdownguide.org/" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" width="30px" alt="markdown" title="Markdown" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/></a>
-
 <a href="https://github.com" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" width="30px" alt="github" title="GitHub"  style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"/></a>
+
+<a href="https://www.markdownguide.org/" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" width="30px" alt="markdown" title="Markdown" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/></a>
 
 <a href="https://html.com/" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" width="30px" alt="html" title="HTML" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
