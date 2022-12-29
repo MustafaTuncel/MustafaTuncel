@@ -28,13 +28,13 @@ blueviolet, ff69b4 (pink), 9cf (lightblue)
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" src="https://custom-icon-badges.demolab.com/badge/-Commits-green.svg?logo=git-commit&logoColor=white"/></a>
 
-<a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
+<a href="https://github.com/MustafaTuncel?tab=repositories" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" src="https://custom-icon-badges.demolab.com/badge/-Repositories-blue.svg?logo=repo&logoColor=white"/></a>
 
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" src="https://custom-icon-badges.demolab.com/badge/-Pull Requests-purple.svg?logo=git-pull-request&logoColor=white"/></a>
 
-<a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
+<a href="mailto:mustafatuncel.1993@gmail.com" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" src="https://custom-icon-badges.demolab.com/badge/-Mail-red.svg?logo=mail&logoColor=white"/></a><br>
 
 #
@@ -110,11 +110,9 @@ blueviolet, ff69b4 (pink), 9cf (lightblue)
 
 #
 
-<img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaTuncel&theme=default&layout=compact" alt="My Most Used Languages"><br>
-
-<img width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=mustafatuncel&theme=ayu-light&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="My Contributions & Streaks"><br>
-
-<img width="500px" src="https://github-readme-stats.vercel.app/api?username=MustafaTuncel&show_icons=true&theme=default" alt="My GitHub Stats">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaTuncel&theme=default&layout=compact" alt="My Most Used Languages"><br>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=mustafatuncel&theme=ayu-light&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="My Contributions & Streaks"><br>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=MustafaTuncel&show_icons=true&theme=default" alt="My GitHub Stats">
 
 
 <!--
