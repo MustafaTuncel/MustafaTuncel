@@ -16,11 +16,8 @@ success, important, critical, informational, inactive,
 blueviolet, ff69b4 (pink), 9cf (lightblue)
 -->
 
-<a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" style="padding-right:1px;" src="https://custom-icon-badges.demolab.com/badge/-Issues-ff69b4.svg?logo=issue-opened&logoColor=white"/></a>
-
-<a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" style="padding-right:1px" src="https://custom-icon-badges.demolab.com/badge/-Forks-orange.svg?logo=repo-forked&logoColor=white"/></a>
+<a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow"><img align="left" style="padding-right:1px;" src="https://custom-icon-badges.demolab.com/badge/-Issues-ff69b4.svg?logo=issue-opened&logoColor=white"/></a>
+<a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow"><img align="left" style="padding-right:1px" src="https://custom-icon-badges.demolab.com/badge/-Forks-orange.svg?logo=repo-forked&logoColor=white"/></a>
 
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" style="padding-right:1px" src="https://custom-icon-badges.demolab.com/badge/-Stars-yellow.svg?logo=star&logoColor=white"/></a>
