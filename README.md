@@ -106,7 +106,7 @@ blueviolet, ff69b4 (pink), 9cf (lightblue)
 <!-- END YOUTUBE-CARDS -->
 
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" style="padding-right:1px;" src="https://custom-icon-badges.demolab.com/badge/Subscribe-red.svg?style=for-the-badge&logo=issue-opened&logoColor=white"/></a>
+<img align="left" style="padding-right:1px;" src="https://custom-icon-badges.demolab.com/badge/Subscribe-red.svg?style=for-the-badge&logo=issue-opened&logoColor=white"/></a><br>
 
 #
 
