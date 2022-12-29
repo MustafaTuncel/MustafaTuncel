@@ -13,11 +13,11 @@
 <!-- CUSTOM ICON BADGES COLOR LIST
 brightgreen, green, yellowgreen, yellow, orange, red, blue, lightgrey, 
 success, important, critical, informational, inactive, 
-blueviolet, ff69b4 (pink), 9cf (lightblue)
+blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 -->
 
 <a href="#" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://custom-icon-badges.demolab.com/badge/Issue-ff0000.svg?logo=issue-opened&logoColor=white"/></a>
+<img align="left" src="https://custom-icon-badges.demolab.com/badge/Issue-f25278.svg?logo=issue-opened&logoColor=white"/></a>
 
 <a href="#" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" src="https://custom-icon-badges.demolab.com/badge/Fork-orange.svg?logo=repo-forked&logoColor=white"/></a>
@@ -104,7 +104,7 @@ blueviolet, ff69b4 (pink), 9cf (lightblue)
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
 
-<a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
+<a href="https://www.youtube.com/channel/UCscVDGKFKT4T1kX3F27ieZw" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" src="https://custom-icon-badges.demolab.com/badge/Subscribe-ff0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a><br>
 
 #
