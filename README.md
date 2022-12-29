@@ -16,26 +16,28 @@ success, important, critical, informational, inactive,
 blueviolet, ff69b4 (pink), 9cf (lightblue)
 -->
 
+<p dir="auto">
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" style="margin-right:1px;" src="https://custom-icon-badges.demolab.com/badge/-Issues-ff69b4.svg?logo=issue-opened&logoColor=white"/></a>
+<img align="left" src="https://custom-icon-badges.demolab.com/badge/-Issues-ff69b4.svg?logo=issue-opened&logoColor=white"/></a>
 
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" style="margin-right:1px" src="https://custom-icon-badges.demolab.com/badge/-Forks-orange.svg?logo=repo-forked&logoColor=white"/></a>
+<img align="left" src="https://custom-icon-badges.demolab.com/badge/-Forks-orange.svg?logo=repo-forked&logoColor=white"/></a>
 
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" style="margin-right:1px" src="https://custom-icon-badges.demolab.com/badge/-Stars-yellow.svg?logo=star&logoColor=white"/></a>
+<img align="left" src="https://custom-icon-badges.demolab.com/badge/-Stars-yellow.svg?logo=star&logoColor=white"/></a>
 
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" style="margin-right:1px" src="https://custom-icon-badges.demolab.com/badge/-Commits-green.svg?logo=git-commit&logoColor=white"/></a>
+<img align="left" src="https://custom-icon-badges.demolab.com/badge/-Commits-green.svg?logo=git-commit&logoColor=white"/></a>
 
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" style="margin-right:1px" src="https://custom-icon-badges.demolab.com/badge/-Repositories-blue.svg?logo=repo&logoColor=white"/></a>
+<img align="left" src="https://custom-icon-badges.demolab.com/badge/-Repositories-blue.svg?logo=repo&logoColor=white"/></a>
 
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" style="margin-right:1px" src="https://custom-icon-badges.demolab.com/badge/-Pull Requests-purple.svg?logo=git-pull-request&logoColor=white"/></a>
+<img align="left" src="https://custom-icon-badges.demolab.com/badge/-Pull Requests-purple.svg?logo=git-pull-request&logoColor=white"/></a>
 
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" style="margin-right:1px" src="https://custom-icon-badges.demolab.com/badge/-Mail-red.svg?logo=mail&logoColor=white"/></a><br>
+<img align="left" src="https://custom-icon-badges.demolab.com/badge/-Mail-red.svg?logo=mail&logoColor=white"/></a><br>
+</p>
 
 #
 
