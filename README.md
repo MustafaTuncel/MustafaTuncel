@@ -16,8 +16,11 @@ success, important, critical, informational, inactive,
 blueviolet, ff69b4 (pink), 9cf (lightblue)
 -->
 
-<a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow"><img align="left" style="padding-right:1px;" src="https://custom-icon-badges.demolab.com/badge/-Issues-ff69b4.svg?logo=issue-opened&logoColor=white"/></a>
-<a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow"><img align="left" style="padding-right:1px" src="https://custom-icon-badges.demolab.com/badge/-Forks-orange.svg?logo=repo-forked&logoColor=white"/></a>
+<a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" style="padding-right:1px;" src="https://custom-icon-badges.demolab.com/badge/-Issues-ff69b4.svg?logo=issue-opened&logoColor=white"/></a>
+
+<a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" style="padding-right:1px" src="https://custom-icon-badges.demolab.com/badge/-Forks-orange.svg?logo=repo-forked&logoColor=white"/></a>
 
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" style="padding-right:1px" src="https://custom-icon-badges.demolab.com/badge/-Stars-yellow.svg?logo=star&logoColor=white"/></a>
@@ -32,7 +35,7 @@ blueviolet, ff69b4 (pink), 9cf (lightblue)
 <img align="left" style="padding-right:1px" src="https://custom-icon-badges.demolab.com/badge/-Pull Requests-purple.svg?logo=git-pull-request&logoColor=white"/></a>
 
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" style="padding-right:1px" src="https://custom-icon-badges.demolab.com/badge/-Mail-red.svg?logo=mail&logoColor=white"/></a>
+<img align="left" style="padding-right:1px" src="https://custom-icon-badges.demolab.com/badge/-Mail-red.svg?logo=mail&logoColor=white"/></a><br>
 
 #
 
@@ -101,6 +104,9 @@ blueviolet, ff69b4 (pink), 9cf (lightblue)
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
+
+<a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" style="padding-right:1px;" src="https://custom-icon-badges.demolab.com/badge/Subscribe-red.svg?style=for-the-badge&logo=issue-opened&logoColor=white"/></a>
 
 #
 
