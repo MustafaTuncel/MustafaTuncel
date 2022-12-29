@@ -17,37 +17,37 @@ blueviolet, ff69b4 (pink), 9cf (lightblue)
 -->
 
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" style="padding-right:1px" src="https://img.shields.io/badge/custom-badge-brightgreen.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-brightgreen.svg?logo=paintbrush&logoColor=white"/></a>
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" style="padding-right:1px" src="https://img.shields.io/badge/custom-badge-green.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-green.svg?logo=paintbrush&logoColor=white"/></a>
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" style="padding-right:2px" src="https://img.shields.io/badge/custom-badge-yellowgreen.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-yellowgreen.svg?logo=paintbrush&logoColor=white"/></a>
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" style="padding-right:2px" src="https://img.shields.io/badge/custom-badge-yellow.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-yellow.svg?logo=paintbrush&logoColor=white"/></a>
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" style="padding-right:3px" src="https://img.shields.io/badge/custom-badge-orange.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-orange.svg?logo=paintbrush&logoColor=white"/></a>
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" style="padding-right:3px" src="https://img.shields.io/badge/custom-badge-red.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-red.svg?logo=paintbrush&logoColor=white"/></a>
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" style="padding-right:4px" src="https://img.shields.io/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white"/></a>
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" style="padding-right:4px" src="https://img.shields.io/badge/custom-badge-lightgrey.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-lightgrey.svg?logo=paintbrush&logoColor=white"/></a>
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" style="padding-right:5px" src="https://img.shields.io/badge/custom-badge-success.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-success.svg?logo=paintbrush&logoColor=white"/></a>
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" style="padding-right:5px" src="https://img.shields.io/badge/custom-badge-important.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-important.svg?logo=paintbrush&logoColor=white"/></a>
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" style="padding-right:5px" src="https://img.shields.io/badge/custom-badge-critical.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-critical.svg?logo=paintbrush&logoColor=white"/></a>
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" style="padding-right:5px" src="https://img.shields.io/badge/custom-badge-informational.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-informational.svg?logo=paintbrush&logoColor=white"/></a>
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" style="padding-right:5px" src="https://img.shields.io/badge/custom-badge-inactive.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-inactive.svg?logo=paintbrush&logoColor=white"/></a>
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" style="padding-right:5px" src="https://img.shields.io/badge/custom-badge-blueviolet.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-blueviolet.svg?logo=paintbrush&logoColor=white"/></a>
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" style="padding-right:5px" src="https://img.shields.io/badge/custom-badge-ff69b4.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-ff69b4.svg?logo=paintbrush&logoColor=white"/></a>
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" style="padding-right:5px" src="https://img.shields.io/badge/custom-badge-9cf.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-9cf.svg?logo=paintbrush&logoColor=white"/></a>
 <br>
 
 #
