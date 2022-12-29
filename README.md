@@ -10,6 +10,10 @@
 ***- Pronouns:*** *He/Him.*<br>
 ***- Fun fact:*** *I'm RPG, PC & Board Games enthusiast. Also, I'm interesting with Fitness, Vocal Trance, Reggae & Rap music. I do sports at every opportunity. Lastly, I love anime, animals & art.*
 
+
+
+
+
 <!-- CUSTOM ICON BADGES COLOR LIST
 brightgreen, green, yellowgreen, yellow, orange, red, blue, lightgrey, 
 success, important, critical, informational, inactive, 
@@ -17,37 +21,38 @@ blueviolet, ff69b4 (pink), 9cf (lightblue)
 -->
 
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://img.shields.io/badge/custom-badge-brightgreen.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-brightgreen.svg"/></a>
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://img.shields.io/badge/custom-badge-green.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-green.svg"/></a>
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://img.shields.io/badge/custom-badge-yellowgreen.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-yellowgreen.svg"/></a>
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://img.shields.io/badge/custom-badge-yellow.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-yellow.svg"/></a>
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://img.shields.io/badge/custom-badge-orange.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-orange.svg"/></a>
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://img.shields.io/badge/custom-badge-red.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-red.svg"/></a>
+
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://img.shields.io/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-blue.svg"/></a>
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://img.shields.io/badge/custom-badge-lightgrey.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-lightgrey.svg"/></a>
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://img.shields.io/badge/custom-badge-success.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-success.svg"/></a>
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://img.shields.io/badge/custom-badge-important.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-important.svg"/></a>
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://img.shields.io/badge/custom-badge-critical.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-critical.svg"/></a>
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://img.shields.io/badge/custom-badge-informational.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-informational.svg"/></a>
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://img.shields.io/badge/custom-badge-inactive.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-inactive.svg"/></a>
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://img.shields.io/badge/custom-badge-blueviolet.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-blueviolet.svg"/></a>
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://img.shields.io/badge/custom-badge-ff69b4.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-ff69b4.svg"/></a>
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://img.shields.io/badge/custom-badge-9cf.svg?logo=paintbrush&logoColor=white"/></a>
+<img align="left" src="https://img.shields.io/badge/custom-badge-9cf.svg"/></a>
 <br>
 
 #
@@ -124,7 +129,7 @@ blueviolet, ff69b4 (pink), 9cf (lightblue)
 
 <img width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=mustafatuncel&theme=ayu-light&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="My Contributions & Streaks"><br>
 
-<img width="500px" src="https://github-readme-stats.vercel.app/api?username=MustafaTuncel&theme=default" alt="My GitHub Stats">
+<img width="500px" src="https://github-readme-stats.vercel.app/api?username=MustafaTuncel&show_icons=true&theme=default" alt="My GitHub Stats">
 
 
 <!--
