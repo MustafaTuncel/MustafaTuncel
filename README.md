@@ -10,7 +10,7 @@
 ***- Pronouns:*** *He/Him.*<br>
 ***- Fun fact:*** *I'm RPG, PC & Board Games enthusiast. Also, I'm interesting with Fitness, Vocal Trance, Reggae & Rap music. I do sports at every opportunity. Lastly, I love anime, animals & art.*
 
-
+#
 
 <!-- CUSTOM ICON BADGES COLOR LIST
 brightgreen, green, yellowgreen, yellow, orange, red, blue, lightgrey, 
@@ -51,7 +51,7 @@ blueviolet, ff69b4 (pink), 9cf (lightblue)
 <img align="left" src="https://img.shields.io/badge/custom-badge-ff69b4.svg"/></a>
 <a href="www.youtube.com" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" src="https://img.shields.io/badge/custom-badge-9cf.svg"/></a>
-<br>
+<br><br>
 
 #
 
