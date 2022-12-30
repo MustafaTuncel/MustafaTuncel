@@ -2,7 +2,13 @@
 
 **``Junior Developer | Front-End Web Development``**
 
-*Hi, I'm Mustafa. I was born in İstanbul in 1993. I'm Turkish and living in Turkey/Tekirdağ. My main job is accountant but I'm unemployed, so I'm decided to learn web development. What I learned learned by own as online. I'm still continue and I will...*
+<img src="https://visitor-badge.glitch.me/badge?page_id=MustafaTuncel.visitor-badge?left_color=grey&right_color=green"><br>
+
+<!--
+[![Mustafa Tuncel StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=20082069&theme=dark)](https://stackoverflow.com/users/20082069/mustafa-tuncel)
+-->
+
+>*Hi, I'm Mustafa. I was born in İstanbul in 1993. I'm Turkish and living in Turkey/Tekirdağ. My main job is accountant but I'm unemployed, so I'm decided to learn web development. What I learned learned by own as online. I'm still continue and I will...*
 
 ***- I’m currently working on*** *My Github profile & personal web site.*<br>
 ***- I’m currently learning*** *Javascript.*<br>
@@ -40,8 +46,6 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 
 <a href="mailto:mustafatuncel.1993@gmail.com" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" src="https://custom-icon-badges.demolab.com/badge/Mail-red.svg?logo=mail&logoColor=white"/></a><br>
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=MustafaTuncel.visitor-badge?left_color=grey&right_color=green">
 
 #
 
