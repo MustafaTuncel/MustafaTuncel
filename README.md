@@ -97,7 +97,12 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 
 <a href="https://steamcommunity.com/id/SofiaPavlovena/" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" width="30px" alt="steam" title="Steam" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg"></img></a>
-<br>
+
+<a href="https://www.twitch.tv/mustafatuncel" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" width="30px" alt="steam" title="Steam" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg"></img></a>
+
+<a href="https://discord.gg/n6RQ5Ha" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" width="30px" alt="steam" title="Steam" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg"></img><br>
 
 #
 
