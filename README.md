@@ -12,6 +12,10 @@
 
 #
 
+<!--START_SECTION:activity-->
+
+#
+
 <!-- CUSTOM ICON BADGES COLOR LIST
 brightgreen, green, yellowgreen, yellow, orange, red, blue, lightgrey, 
 success, important, critical, informational, inactive, 
@@ -111,9 +115,7 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 
 #
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MustafaTuncel&theme=react-dark)](https://github.com/MustafaTuncel/github-readme-activity-graph)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MustafaTuncel&theme=high-contrast)](https://github.com/MustafaTuncel/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MustafaTuncel&theme=react-dark&radius=10)](https://github.com/MustafaTuncel/github-readme-activity-graph)
 
 <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaTuncel&theme=dark&layout=compact" alt="My Most Used Languages"><br>
 <img width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=mustafatuncel&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="My Contributions & Streaks"><br>
