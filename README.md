@@ -18,7 +18,7 @@ success, important, critical, informational, inactive,
 blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 -->
 
-### GitHub
+### :computer: GitHub
 
 <a href="#" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" src="https://custom-icon-badges.demolab.com/badge/Issue-f25278.svg?logo=issue-opened&logoColor=white"/></a>
@@ -44,7 +44,9 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 #
 <p align="center" dir="auto">
 
-### Languages and Tools
+
+
+ ### :wrench: Languages and Tools
 
 <a href="https://code.visualstudio.com" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" width="30px" alt="vsc" title="Visual Studio Code" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
@@ -69,7 +71,7 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 
 #
 
-### Social Media Accounts
+### :iphone: Social Media Accounts
 
 <a href="https://www.linkedin.com/in/mustafatuncel93/" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" width="30px" alt="linkedin" title="Linked In" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"></img></a>
@@ -109,10 +111,9 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 
 #
 
-### Latest Youtube Videos
+### :tv: Latest Youtube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/channel/UCscVDGKFKT4T1kX3F27ieZw" target="_blank" rel="noopener noreferrer nofollow">
