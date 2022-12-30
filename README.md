@@ -6,12 +6,8 @@
 <img src="https://img.shields.io/twitter/follow/MustafaTuncel93?style=social"></a>
 <a href="https://www.reddit.com/user/SofiaPavlovena">
 <img  src="https://img.shields.io/reddit/user-karma/combined/SofiaPavlovena?style=social"></a>
-<a href="https://www.youtube.com/channel/UCscVDGKFKT4T1kX3F27ieZw">
-<img src="https://img.shields.io/youtube/channel/views/UCscVDGKFKT4T1kX3F27ieZw?style=social"></a>
-<a href="https://www.twitch.tv/mustafatuncel">
-<img src="https://img.shields.io/twitch/status/mustafatuncel?style=social"></a>
+<a href="https://www.youtube.com/channel/UCscVDGKFKT4T1kX3F27ieZw"></a>
 
-<a href="https://discord.com/channels/424256102046367754/424256102046367758">![Discord](https://img.shields.io/discord/424256102046367754?label=discord&logo=discord&style=social)</a>
 <!--
 [![Mustafa Tuncel StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=20082069&theme=dark)](https://stackoverflow.com/users/20082069/mustafa-tuncel)
 -->
@@ -30,13 +26,37 @@ success, important, critical, informational, inactive,
 blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 -->
 
-<img align="left" style="margin-right:0px" src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmustafatuncel.github.io">
+<img align="left" src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmustafatuncel.github.io">
 
-<img align="left" style="margin-right:none" src="https://visitor-badge.glitch.me/badge?page_id=MustafaTuncel.visitor-badge?left_color=grey&right_color=green">
+<img align="left" src="https://visitor-badge.glitch.me/badge?page_id=MustafaTuncel.visitor-badge?left_color=grey&right_color=green">
 
-<img align="left" style="margin-right:none" src="https://img.shields.io/github/actions/workflow/status/MustafaTuncel/MustafaTuncel/youtube-cards.yml"><img src="https://img.shields.io/github/last-commit/MustafaTuncel/MustafaTuncel"><img src="https://img.shields.io/github/commit-activity/y/MustafaTuncel/MustafaTuncel?color=brightgreen"> <br>
-<img src="https://img.shields.io/github/languages/count/MustafaTuncel/learningprocess"><img src="https://img.shields.io/github/languages/top/MustafaTuncel/learningprocess"><img src="https://img.shields.io/github/followers/MustafaTuncel"><img src="https://img.shields.io/github/forks/MustafaTuncel/MustafaTuncel"><img src="https://img.shields.io/github/stars/MustafaTuncel/MustafaTuncel"><img src="https://img.shields.io/github/milestones/all/MustafaTuncel/MustafaTuncel"><img src="https://img.shields.io/github/contributors/MustafaTuncel/MustafaTuncel?color=blue"> <br>
-<img src="https://img.shields.io/github/issues/MustafaTuncel/MustafaTuncel?color=yellow"><img src="https://img.shields.io/github/issues-closed/MustafaTuncel/MustafaTuncel?color=yellow"><img src="https://img.shields.io/github/issues-pr/MustafaTuncel/MustafaTuncel?color=yellow"><img src="https://img.shields.io/github/issues-pr-closed/MustafaTuncel/MustafaTuncel?color=yellow"><br>
+<img align="left" src="https://img.shields.io/github/actions/workflow/status/MustafaTuncel/MustafaTuncel/youtube-cards.yml">
+
+<img align="left" src="https://img.shields.io/github/last-commit/MustafaTuncel/MustafaTuncel">
+
+<img align="left" src="https://img.shields.io/github/commit-activity/y/MustafaTuncel/MustafaTuncel?color=brightgreen"> <br>
+
+<img align="left" src="https://img.shields.io/github/languages/count/MustafaTuncel/learningprocess">
+
+<img align="left" src="https://img.shields.io/github/languages/top/MustafaTuncel/learningprocess">
+
+<img align="left" src="https://img.shields.io/github/followers/MustafaTuncel">
+
+<img align="left" src="https://img.shields.io/github/forks/MustafaTuncel/MustafaTuncel">
+
+<img align="left" src="https://img.shields.io/github/stars/MustafaTuncel/MustafaTuncel">
+
+<img align="left" src="https://img.shields.io/github/milestones/all/MustafaTuncel/MustafaTuncel">
+
+<img align="left" src="https://img.shields.io/github/contributors/MustafaTuncel/MustafaTuncel?color=blue"> <br>
+
+<img align="left" src="https://img.shields.io/github/issues/MustafaTuncel/MustafaTuncel?color=yellow">
+
+<img align="left" src="https://img.shields.io/github/issues-closed/MustafaTuncel/MustafaTuncel?color=yellow">
+
+<img align="left" src="https://img.shields.io/github/issues-pr/MustafaTuncel/MustafaTuncel?color=yellow">
+
+<img align="left" src="https://img.shields.io/github/issues-pr-closed/MustafaTuncel/MustafaTuncel?color=yellow"><br>
 
 #
 
