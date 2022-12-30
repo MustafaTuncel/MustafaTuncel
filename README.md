@@ -43,8 +43,6 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=MustafaTuncel.visitor-badge?left_color=grey&right_color=green">
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=MustafaTuncel.visitor-badge.issue.1?left_color=grey&right_color=green">
-
 #
 
  ### :wrench: Languages and Tools
