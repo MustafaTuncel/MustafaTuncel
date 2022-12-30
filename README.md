@@ -18,6 +18,8 @@ success, important, critical, informational, inactive,
 blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 -->
 
+### GitHub
+
 <a href="#" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" src="https://custom-icon-badges.demolab.com/badge/Issue-f25278.svg?logo=issue-opened&logoColor=white"/></a>
 
