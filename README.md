@@ -13,6 +13,7 @@
 ***- I’m looking to collaborate on*** *GitHub.*<br>
 ***- Pronouns:*** *He/Him.*<br>
 ***- Fun fact:*** *I'm RPG, PC & Board Games enthusiast. Also, I'm interesting with Fitness, Vocal Trance, Reggae & Rap music. I do sports at every opportunity. Lastly, I love anime, animals & art.*
+<br>
 
 <!-- CUSTOM ICON BADGES COLOR LIST
 brightgreen, green, yellowgreen, yellow, orange, red, blue, lightgrey, 
@@ -21,7 +22,7 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 -->
 
 <img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmustafatuncel.github.io"><img src="https://visitor-badge.glitch.me/badge?page_id=MustafaTuncel.visitor-badge?left_color=grey&right_color=green"><img src="https://img.shields.io/github/actions/workflow/status/MustafaTuncel/MustafaTuncel/youtube-cards.yml"><img src="https://img.shields.io/github/last-commit/MustafaTuncel/MustafaTuncel"><img src="https://img.shields.io/github/commit-activity/y/MustafaTuncel/MustafaTuncel?color=brightgreen"> <br>
-<img src="https://img.shields.io/github/languages/count/MustafaTuncel/learningprocess"><img src="https://img.shields.io/github/languages/top/MustafaTuncel/learningprocess"><img src="https://img.shields.io/github/followers/MustafaTuncel"><img src="https://img.shields.io/github/forks/MustafaTuncel/MustafaTuncel"><img src="https://img.shields.io/github/stars/MustafaTuncel/MustafaTuncel"><img src="https://img.shields.io/github/milestones/all/MustafaTuncel/MustafaTuncel"><img src="https://img.shields.io/github/contributors/MustafaTuncel/MustafaTuncel?color=blue"> <br>
+<img src="https://img.shields.io/github/languages/count/MustafaTuncel/learningprocess"><img src="https://img.shields.io/github/languages/top/MustafaTuncel/learningprocess"><img src="https://img.shields.io/github/forks/MustafaTuncel/MustafaTuncel"><img src="https://img.shields.io/github/stars/MustafaTuncel/MustafaTuncel"><img src="https://img.shields.io/github/milestones/all/MustafaTuncel/MustafaTuncel"><img src="https://img.shields.io/github/contributors/MustafaTuncel/MustafaTuncel?color=blue"><img src="https://img.shields.io/github/followers/MustafaTuncel"> <br>
 <img src="https://img.shields.io/github/issues/MustafaTuncel/MustafaTuncel?color=yellow"><img src="https://img.shields.io/github/issues-closed/MustafaTuncel/MustafaTuncel?color=yellow"><img src="https://img.shields.io/github/issues-pr/MustafaTuncel/MustafaTuncel?color=yellow"><img src="https://img.shields.io/github/issues-pr-closed/MustafaTuncel/MustafaTuncel?color=yellow"><br>
 
 #
