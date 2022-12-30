@@ -89,8 +89,11 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 <a href="https://www.reddit.com/user/SofiaPavlovena/" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" width="30px" alt="reddit" title="Reddit" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg"></img></a>
 
-<a href="https://www.youtube.com/channel/UCscVDGKFKT4T1kX3F27ieZw" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" width="30px" alt="youtube" title="Youtube" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"></img></a>
+<a href="https://discord.gg/n6RQ5Ha" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" width="30px" alt="steam" title="Steam" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg"></img>
+
+<a href="https://www.twitch.tv/mustafatuncel" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" width="30px" alt="steam" title="Steam" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg"></img></a>
 
 <a href="https://open.spotify.com/user/sofiapavlovena" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" width="30px" alt="spotify" title="Spotify" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg"></img></a>
@@ -98,11 +101,8 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 <a href="https://steamcommunity.com/id/SofiaPavlovena/" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" width="30px" alt="steam" title="Steam" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg"></img></a>
 
-<a href="https://www.twitch.tv/mustafatuncel" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" width="30px" alt="steam" title="Steam" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg"></img></a>
-
-<a href="https://discord.gg/n6RQ5Ha" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" width="30px" alt="steam" title="Steam" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg"></img><br>
+<a href="https://www.youtube.com/channel/UCscVDGKFKT4T1kX3F27ieZw" target="_blank" rel="noopener noreferrer nofollow">
+<img align="left" width="30px" alt="youtube" title="Youtube" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"></img></a><br>
 
 #
 
