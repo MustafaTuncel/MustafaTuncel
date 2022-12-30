@@ -40,6 +40,7 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 <img align="left" src="https://custom-icon-badges.demolab.com/badge/Mail-red.svg?logo=mail&logoColor=white"/></a><br>
 
 #
+<p align="center" dir="auto">
 
 ### Languages and Tools
 
@@ -62,7 +63,7 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 <img align="left" width="30px" alt="css" title="CSS" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
 
 <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" width="30px" alt="js" title="JS" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a><br>
+<img align="left" width="30px" alt="js" title="JS" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a><br></p>
 
 #
 
