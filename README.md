@@ -2,8 +2,16 @@
 
 **``Junior Developer | Front-End Web Development``**
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=MustafaTuncel.visitor-badge?left_color=grey&right_color=green"><br>
+<a href="https://twitter.com/MustafaTuncel93">
+<img src="https://img.shields.io/twitter/follow/MustafaTuncel93?style=social"></a>
+<a href="https://www.reddit.com/user/SofiaPavlovena">
+<img  src="https://img.shields.io/reddit/user-karma/combined/SofiaPavlovena?style=social"></a>
+<a href="https://www.youtube.com/channel/UCscVDGKFKT4T1kX3F27ieZw">
+<img src="https://img.shields.io/youtube/channel/views/UCscVDGKFKT4T1kX3F27ieZw?style=social"></a>
+<a href="https://www.twitch.tv/mustafatuncel">
+<img src="https://img.shields.io/twitch/status/mustafatuncel?style=social"></a>
 
+<a href="https://discord.com/channels/424256102046367754/424256102046367758">![Discord](https://img.shields.io/discord/424256102046367754?label=discord&logo=discord&style=social)</a>
 <!--
 [![Mustafa Tuncel StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=20082069&theme=dark)](https://stackoverflow.com/users/20082069/mustafa-tuncel)
 -->
@@ -16,36 +24,28 @@
 ***- Pronouns:*** *He/Him.*<br>
 ***- Fun fact:*** *I'm RPG, PC & Board Games enthusiast. Also, I'm interesting with Fitness, Vocal Trance, Reggae & Rap music. I do sports at every opportunity. Lastly, I love anime, animals & art.*
 
-#
-
 <!-- CUSTOM ICON BADGES COLOR LIST
 brightgreen, green, yellowgreen, yellow, orange, red, blue, lightgrey, 
 success, important, critical, informational, inactive, 
 blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 -->
 
-### :battery: GitHub
-
-<a href="#" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://custom-icon-badges.demolab.com/badge/Issue-f25278.svg?logo=issue-opened&logoColor=white"/></a>
-
-<a href="#" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://custom-icon-badges.demolab.com/badge/Fork-orange.svg?logo=repo-forked&logoColor=white"/></a>
-
-<a href="https://github.com/MustafaTuncel?tab=stars" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://custom-icon-badges.demolab.com/badge/Star-yellow.svg?logo=star&logoColor=white"/></a>
-
-<a href="#" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://custom-icon-badges.demolab.com/badge/Commit-green.svg?logo=git-commit&logoColor=white"/></a>
-
-<a href="https://github.com/MustafaTuncel?tab=repositories" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://custom-icon-badges.demolab.com/badge/Repo-blue.svg?logo=repo&logoColor=white"/></a>
-
-<a href="#" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://custom-icon-badges.demolab.com/badge/Pull-purple.svg?logo=git-pull-request&logoColor=white"/></a>
-
-<a href="mailto:mustafatuncel.1993@gmail.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" src="https://custom-icon-badges.demolab.com/badge/Mail-red.svg?logo=mail&logoColor=white"/></a><br>
+<img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmustafatuncel.github.io">
+<img src="https://visitor-badge.glitch.me/badge?page_id=MustafaTuncel.visitor-badge?left_color=grey&right_color=green">
+<img src="https://img.shields.io/github/actions/workflow/status/MustafaTuncel/MustafaTuncel/youtube-cards.yml">
+<img src="https://img.shields.io/github/last-commit/MustafaTuncel/MustafaTuncel">
+<img src="https://img.shields.io/github/commit-activity/y/MustafaTuncel/MustafaTuncel?color=brightgreen"> <br>
+<img src="https://img.shields.io/github/languages/count/MustafaTuncel/learningprocess">
+<img src="https://img.shields.io/github/languages/top/MustafaTuncel/learningprocess">
+<img src="https://img.shields.io/github/followers/MustafaTuncel">
+<img src="https://img.shields.io/github/forks/MustafaTuncel/MustafaTuncel">
+<img src="https://img.shields.io/github/stars/MustafaTuncel/MustafaTuncel">
+<img src="https://img.shields.io/github/milestones/all/MustafaTuncel/MustafaTuncel">
+<img src="https://img.shields.io/github/contributors/MustafaTuncel/MustafaTuncel?color=blue"> <br>
+<img src="https://img.shields.io/github/issues/MustafaTuncel/MustafaTuncel?color=yellow">
+<img src="https://img.shields.io/github/issues-closed/MustafaTuncel/MustafaTuncel?color=yellow">
+<img src="https://img.shields.io/github/issues-pr/MustafaTuncel/MustafaTuncel?color=yellow">
+<img src="https://img.shields.io/github/issues-pr-closed/MustafaTuncel/MustafaTuncel?color=yellow"><br>
 
 #
 
