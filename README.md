@@ -18,7 +18,7 @@ success, important, critical, informational, inactive,
 blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 -->
 
-### :computer: GitHub
+### :battery: GitHub
 
 <a href="#" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" src="https://custom-icon-badges.demolab.com/badge/Issue-f25278.svg?logo=issue-opened&logoColor=white"/></a>
@@ -41,10 +41,11 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 <a href="mailto:mustafatuncel.1993@gmail.com" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" src="https://custom-icon-badges.demolab.com/badge/Mail-red.svg?logo=mail&logoColor=white"/></a><br>
 
+<img src="https://visitor-badge.glitch.me/badge?page_id=MustafaTuncel.visitor-badge?left_color=grey&right_color=green">
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=MustafaTuncel.visitor-badge.issue.1?left_color=grey&right_color=green">
+
 #
-<p align="center" dir="auto">
-
-
 
  ### :wrench: Languages and Tools
 
@@ -67,11 +68,11 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 <img align="left" width="30px" alt="css" title="CSS" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
 
 <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer nofollow">
-<img align="left" width="30px" alt="js" title="JS" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a><br></p>
+<img align="left" width="30px" alt="js" title="JS" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a><br>
 
 #
 
-### :iphone: Social Media Accounts
+### :computer: Social Media Accounts
 
 <a href="https://www.linkedin.com/in/mustafatuncel93/" target="_blank" rel="noopener noreferrer nofollow">
 <img align="left" width="30px" alt="linkedin" title="Linked In" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"></img></a>
