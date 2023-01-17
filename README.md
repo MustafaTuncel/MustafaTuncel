@@ -11,7 +11,6 @@
 # Mustafa Tuncel
 
 **``Junior Developer | Front-End Web Development``**
-</div>
 
 <!--
 [![Mustafa Tuncel StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=20082069&theme=dark)](https://stackoverflow.com/users/20082069/mustafa-tuncel)
@@ -24,6 +23,7 @@
 ***- I’m looking to collaborate on*** *GitHub.*<br>
 ***- Pronouns:*** *He/Him.*<br>
 ***- Fun fact:*** *I'm RPG, PC & Board Games enthusiast. Also, I'm interesting with Fitness, Vocal Trance, Reggae & Rap music. I do sports at every opportunity. Lastly, I love anime, animals & art.* <br><br>
+</div>
 
 <!-- CUSTOM ICON BADGES COLOR LIST
 brightgreen, green, yellowgreen, yellow, orange, red, blue, lightgrey, 
@@ -115,11 +115,7 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 
 #
 
-<div id="graph" style="width:500px">
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MustafaTuncel&theme=react-dark&radius=10)](https://github.com/MustafaTuncel/github-readme-activity-graph)<br>
-</div>
-
 <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaTuncel&theme=dark&layout=compact" alt="My Most Used Languages"><br>
 <img width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=mustafatuncel&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="My Contributions & Streaks"><br>
 <img width="500px" src="https://github-readme-stats.vercel.app/api?username=MustafaTuncel&show_icons=true&theme=dark" alt="My GitHub Stats">
