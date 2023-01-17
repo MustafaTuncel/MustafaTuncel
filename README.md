@@ -115,7 +115,11 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 
 #
 
+<div id="graph" align=center style="max-width:500px;">
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MustafaTuncel&theme=react-dark&radius=10)](https://github.com/MustafaTuncel/github-readme-activity-graph)<br>
+</div>
+
 <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaTuncel&theme=dark&layout=compact" alt="My Most Used Languages"><br>
 <img width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=mustafatuncel&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="My Contributions & Streaks"><br>
 <img width="500px" src="https://github-readme-stats.vercel.app/api?username=MustafaTuncel&show_icons=true&theme=dark" alt="My GitHub Stats">
