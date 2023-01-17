@@ -117,9 +117,9 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 
 <img src="https://streak-stats.demolab.com/?user=MustafaTuncel&amp;theme=monokai-metallian&amp;hide_border=true" style="max-width: 100%;" alt="My GitHub Stats">
 
-<img height="192px" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MustafaTuncel&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866" style="width: 485px;max-width: 100%;">
+<img height="192px" width="480px" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MustafaTuncel&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866">
 
-<img height="192px" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MustafaTuncel&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866&amp;hide=Jupyter%20Notebook,Roff" style="width: 360px;max-width: 100%;">
+<img height="192px" width="355px" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MustafaTuncel&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866&amp;hide=Jupyter%20Notebook,Roff">
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph/?username=MustafaTuncel&amp;bg_color=1F222E&amp;color=F8D866&amp;line=F85D7F&amp;point=FFFFFF&amp;hide_border=true" style="max-width: 100%;">
 
