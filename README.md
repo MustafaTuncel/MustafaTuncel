@@ -39,7 +39,7 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
  ## :wrench: Languages and Tools
 
 <a href="https://code.visualstudio.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="center" width="40px" alt="vsc" title="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
+<img align="center" width="40px" alt="vsc" title="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 
 <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer nofollow">
 <img align="center" width="40px" alt="git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></a>
@@ -104,13 +104,37 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/channel/UCscVDGKFKT4T1kX3F27ieZw" target="_blank" rel="noopener noreferrer nofollow">
-<img align="center" width="150px;" src="https://custom-icon-badges.demolab.com/badge/subscribe-ff0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a><br>
+<img align="center" width="150px;" src="https://custom-icon-badges.demolab.com/badge/subscribe-ff0000.svg?style=for-the-badge&logo=video&logoColor=white"/></a><br>
 
+#
+<!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MustafaTuncel&theme=react-dark&radius=10)](https://github.com/MustafaTuncel/github-readme-activity-graph)<br>
 <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaTuncel&theme=dark&layout=compact" alt="My Most Used Languages"><br>
 <img width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=mustafatuncel&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="My Contributions & Streaks"><br>
 <img width="500px" src="https://github-readme-stats.vercel.app/api?username=MustafaTuncel&show_icons=true&theme=dark" alt="My GitHub Stats">
+-->
 
+<img src="https://streak-stats.demolab.com/?user=MustafaTuncel&amp;theme=monokai-metallian&amp;hide_border=true" style="max-width: 100%;" alt="My GitHub Stats">
+
+<p>
+<img height="192px" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MustafaTuncel&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866" style="max-width: 100%;">
+
+<img height="192px" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MustafaTuncel&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866&amp;hide=Jupyter%20Notebook,Roff" style="max-width: 100%;">
+</p>
+
+<img src="https://github-readme-activity-graph.cyclic.app/graph/?username=MustafaTuncel&amp;bg_color=1F222E&amp;color=F8D866&amp;line=F85D7F&amp;point=FFFFFF&amp;hide_border=true" style="max-width: 100%;">
+
+
+
+<img src="https://streak-stats.demolab.com/?user=MustafaTuncel&amp;theme=react&amp;hide_border=true" style="max-width: 100%;" alt="My GitHub Stats">
+
+<p>
+<img height="192px" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MustafaTuncel&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=61d9fa&amp;icon_color=61d9fa" style="max-width: 100%;">
+
+<img height="192px" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MustafaTuncel&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=61d9fa&amp;icon_color=F8D866&amp;hide=Jupyter%20Notebook,Roff" style="max-width: 100%;">
+</p>
+
+<img src="https://github-readme-activity-graph.cyclic.app/graph/?username=MustafaTuncel&amp;bg_color=1F222E&amp;color=61d9fa&amp;line=61d9fa&amp;point=FFFFFF&amp;hide_border=true" style="max-width: 100%;">
 </div>
 
 <!--
