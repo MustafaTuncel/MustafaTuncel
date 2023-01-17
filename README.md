@@ -36,8 +36,6 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 <img src="https://img.shields.io/github/languages/count/MustafaTuncel/learningprocess"><img src="https://img.shields.io/github/languages/top/MustafaTuncel/learningprocess"><img src="https://img.shields.io/github/forks/MustafaTuncel/MustafaTuncel"><img src="https://img.shields.io/github/stars/MustafaTuncel/MustafaTuncel"><img src="https://img.shields.io/github/milestones/all/MustafaTuncel/MustafaTuncel"><img src="https://img.shields.io/github/contributors/MustafaTuncel/MustafaTuncel?color=blue"><img src="https://img.shields.io/github/followers/MustafaTuncel"> <br>
 <img src="https://img.shields.io/github/issues/MustafaTuncel/MustafaTuncel?color=yellow"><img src="https://img.shields.io/github/issues-closed/MustafaTuncel/MustafaTuncel?color=yellow"><img src="https://img.shields.io/github/issues-pr/MustafaTuncel/MustafaTuncel?color=yellow"><img src="https://img.shields.io/github/issues-pr-closed/MustafaTuncel/MustafaTuncel?color=yellow"><br>
 
-#
-
  ## :wrench: Languages and Tools
 
 <a href="https://code.visualstudio.com" target="_blank" rel="noopener noreferrer nofollow">
@@ -60,8 +58,6 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 
 <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer nofollow">
 <img align="center" width="40px" alt="js" title="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a><br>
-
-#
 
 ## :computer: Social Media Accounts
 
@@ -101,8 +97,6 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 <a href="https://www.youtube.com/channel/UCscVDGKFKT4T1kX3F27ieZw" target="_blank" rel="noopener noreferrer nofollow">
 <img align="center" width="40px" alt="youtube" title="Youtube" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"></img></a><br>
 
-#
-
 ## :tv: Latest Youtube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -111,8 +105,6 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 
 <a href="https://www.youtube.com/channel/UCscVDGKFKT4T1kX3F27ieZw" target="_blank" rel="noopener noreferrer nofollow">
 <img align="center" width="150px;" src="https://custom-icon-badges.demolab.com/badge/subscribe-ff0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a><br>
-
-#
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MustafaTuncel&theme=react-dark&radius=10)](https://github.com/MustafaTuncel/github-readme-activity-graph)<br>
 <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaTuncel&theme=dark&layout=compact" alt="My Most Used Languages"><br>
