@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v1
       - uses: MustafaTuncel/activity-box@master
         env:
-          GH_PAT: ${{ secrets.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 }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_PAT: ${{ GH_PAT.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 }}
+          GITHUB_TOKEN: ${{ GH_PAT.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 }}
           GH_USERNAME: MustafaTuncel
           GIST_ID: 5e442d788b4c5f2ba808a68b41f86819
