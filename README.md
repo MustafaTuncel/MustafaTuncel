@@ -127,7 +127,6 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 
 ## ⚡ Recent GitHub Activity
 
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
