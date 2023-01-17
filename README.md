@@ -32,74 +32,74 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 
 <div id="body" align=center>
 
-<img style="margin:10px;" src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmustafatuncel.github.io"><img style="margin:10px;" src="https://visitor-badge.glitch.me/badge?page_id=MustafaTuncel.visitor-badge?left_color=grey&right_color=green"><img style="margin:10px;" src="https://img.shields.io/github/actions/workflow/status/MustafaTuncel/MustafaTuncel/youtube-cards.yml"><img style="margin:10px;" src="https://img.shields.io/github/last-commit/MustafaTuncel/MustafaTuncel"><img style="margin:10px;" src="https://img.shields.io/github/commit-activity/y/MustafaTuncel/MustafaTuncel?color=brightgreen"> <br>
-<img style="margin:10px;" src="https://img.shields.io/github/languages/count/MustafaTuncel/learningprocess"><img style="margin:10px;" src="https://img.shields.io/github/languages/top/MustafaTuncel/learningprocess"><img style="margin:10px;" src="https://img.shields.io/github/forks/MustafaTuncel/MustafaTuncel"><img style="margin:10px;" src="https://img.shields.io/github/stars/MustafaTuncel/MustafaTuncel"><img style="margin:10px;" src="https://img.shields.io/github/milestones/all/MustafaTuncel/MustafaTuncel"><img style="margin:10px;" src="https://img.shields.io/github/contributors/MustafaTuncel/MustafaTuncel?color=blue"><img style="margin:10px;" src="https://img.shields.io/github/followers/MustafaTuncel"> <br>
-<img style="margin:10px;" src="https://img.shields.io/github/issues/MustafaTuncel/MustafaTuncel?color=yellow"><img style="margin:10px;" src="https://img.shields.io/github/issues-closed/MustafaTuncel/MustafaTuncel?color=yellow"><img style="margin:10px;" src="https://img.shields.io/github/issues-pr/MustafaTuncel/MustafaTuncel?color=yellow"><img style="margin:10px;" src="https://img.shields.io/github/issues-pr-closed/MustafaTuncel/MustafaTuncel?color=yellow"><br>
+<img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmustafatuncel.github.io"><img src="https://visitor-badge.glitch.me/badge?page_id=MustafaTuncel.visitor-badge?left_color=grey&right_color=green"><img src="https://img.shields.io/github/actions/workflow/status/MustafaTuncel/MustafaTuncel/youtube-cards.yml"><img src="https://img.shields.io/github/last-commit/MustafaTuncel/MustafaTuncel"><img src="https://img.shields.io/github/commit-activity/y/MustafaTuncel/MustafaTuncel?color=brightgreen"> <br>
+<img src="https://img.shields.io/github/languages/count/MustafaTuncel/learningprocess"><img src="https://img.shields.io/github/languages/top/MustafaTuncel/learningprocess"><img src="https://img.shields.io/github/forks/MustafaTuncel/MustafaTuncel"><img src="https://img.shields.io/github/stars/MustafaTuncel/MustafaTuncel"><img src="https://img.shields.io/github/milestones/all/MustafaTuncel/MustafaTuncel"><img src="https://img.shields.io/github/contributors/MustafaTuncel/MustafaTuncel?color=blue"><img src="https://img.shields.io/github/followers/MustafaTuncel"> <br>
+<img src="https://img.shields.io/github/issues/MustafaTuncel/MustafaTuncel?color=yellow"><img src="https://img.shields.io/github/issues-closed/MustafaTuncel/MustafaTuncel?color=yellow"><img src="https://img.shields.io/github/issues-pr/MustafaTuncel/MustafaTuncel?color=yellow"><img src="https://img.shields.io/github/issues-pr-closed/MustafaTuncel/MustafaTuncel?color=yellow"><br>
 
 #
 
  ## :wrench: Languages and Tools
 
 <a href="https://code.visualstudio.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="center" width="40px" style="margin:10px;" alt="vsc" title="Visual Studio Code" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
+<img align="center" width="40px" alt="vsc" title="Visual Studio Code" style="padding-right:10px;margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
 
 <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer nofollow">
-<img align="center" width="40px" style="margin:10px;" alt="git" title="Git" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></a>
+<img align="center" width="40px" alt="git" title="Git" style="padding-right:10px;margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></a>
 
 <a href="https://github.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="center" width="40px" style="margin:10px;" alt="github" title="GitHub"  style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"/></a>
+<img align="center" width="40px"alt="github" title="GitHub"  style="padding-right:10px;margin:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"/></a>
 
 <a href="https://www.markdownguide.org/" target="_blank" rel="noopener noreferrer nofollow">
-<img align="center" width="40px" style="margin:10px;" alt="markdown" title="Markdown" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/></a>
+<img align="center" width="40px" alt="markdown" title="Markdown" style="padding-right:10px;margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/></a>
 
 <a href="https://html.com/" target="_blank" rel="noopener noreferrer nofollow">
-<img align="center" width="40px" style="margin:10px;" alt="html" title="HTML" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
+<img align="center" width="40px" alt="html" title="HTML" style="padding-right:10px;margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
 
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noopener noreferrer nofollow">
-<img align="center" width="40px" style="margin:10px;" alt="css" title="CSS" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
+<img align="center" width="40px" alt="css" title="CSS" style="padding-right:10px;margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
 
 <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer nofollow">
-<img align="center" width="40px" style="margin:10px;" alt="js" title="JS" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a><br>
+<img align="center" width="40px" alt="js" title="JS" style="padding-right:10px;margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a><br>
 
 #
 
 ## :computer: Social Media Accounts
 
 <a href="https://www.linkedin.com/in/mustafatuncel93/" target="_blank" rel="noopener noreferrer nofollow">
-<img align="center" width="40px" style="margin:10px;" alt="linkedin" title="Linked In" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"></img></a>
+<img align="center" width="40px" alt="linkedin" title="Linked In" style="padding-right:10px;margin:10px;" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"></img></a>
 
 <a href="https://github.com/MustafaTuncel" target="_blank" rel="noopener noreferrer nofollow">
-<img align="center" width="40px" style="margin:10px;" alt="github" title="GitHub" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"></img></a>
+<img align="center" width="40px" alt="github" title="GitHub" style="padding-right:10px;margin:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"></img></a>
 
 <a href="https://stackoverflow.com/users/20082069/" target="_blank" rel="noopener noreferrer nofollow">
-<img align="center" width="40px" style="margin:10px;" alt="stackoverflow" title="Stack Overflow" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg"></img></a>
+<img align="center" width="40px" alt="stackoverflow" title="Stack Overflow" style="padding-right:10px;margin:10px;" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg"></img></a>
 
 <a href="mailto:mustafatuncel.1993@gmail.com" target="_blank" rel="noopener noreferrer nofollow">
-<img align="center" width="40px" style="margin:10px;" alt="gmail" title="Gmail" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></img></a>
+<img align="center" width="40px" alt="gmail" title="Gmail" style="padding-right:10px;margin:10px;" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></img></a>
 
 <a href="https://twitter.com/MustafaTuncel93/" target="_blank" rel="noopener noreferrer nofollow">
-<img align="center" width="40px" style="margin:10px;" alt="twitter" title="Twitter" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"></img></a>
+<img align="center" width="40px" alt="twitter" title="Twitter" style="padding-right:10px;margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"></img></a>
 
 <a href="https://www.instagram.com/tncl.mustafa/" target="_blank" rel="noopener noreferrer nofollow">
-<img align="center" width="40px" style="margin:10px;" alt="instagram" title="Instagram" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></img></a>
+<img align="center" width="40px" alt="instagram" title="Instagram" style="padding-right:10px;margin:10px;" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></img></a>
 
 <a href="https://www.reddit.com/user/SofiaPavlovena/" target="_blank" rel="noopener noreferrer nofollow">
-<img align="center" width="40px" style="margin:10px;" alt="reddit" title="Reddit" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg"></img></a>
+<img align="center" width="40px" alt="reddit" title="Reddit" style="padding-right:10px;margin:10px;" src="https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg"></img></a>
 
 <a href="https://discord.gg/n6RQ5Ha" target="_blank" rel="noopener noreferrer nofollow">
-<img align="center" width="40px" style="margin:10px;" alt="steam" title="Steam" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg"></img>
+<img align="center" width="40px" alt="steam" title="Steam" style="padding-right:10px;margin:10px;" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg"></img>
 
 <a href="https://www.twitch.tv/mustafatuncel" target="_blank" rel="noopener noreferrer nofollow">
-<img align="center" width="40px" style="margin:10px;" alt="steam" title="Steam" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg"></img></a>
+<img align="center" width="40px" alt="steam" title="Steam" style="padding-right:10px;margin:10px;" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg"></img></a>
 
 <a href="https://open.spotify.com/user/sofiapavlovena" target="_blank" rel="noopener noreferrer nofollow">
-<img align="center" width="40px" style="margin:10px;" alt="spotify" title="Spotify" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg"></img></a>
+<img align="center" width="40px" alt="spotify" title="Spotify" style="padding-right:10px;margin:10px;" src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg"></img></a>
 
 <a href="https://steamcommunity.com/id/SofiaPavlovena/" target="_blank" rel="noopener noreferrer nofollow">
-<img align="center" width="40px" style="margin:10px;" alt="steam" title="Steam" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg"></img></a>
+<img align="center" width="40px" alt="steam" title="Steam" style="padding-right:10px;margin:10px;" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg"></img></a>
 
 <a href="https://www.youtube.com/channel/UCscVDGKFKT4T1kX3F27ieZw" target="_blank" rel="noopener noreferrer nofollow">
-<img align="center" width="40px" style="margin:10px;" alt="youtube" title="Youtube" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"></img></a><br>
+<img align="center" width="40px" alt="youtube" title="Youtube" style="padding-right:10px;margin:10px;" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"></img></a><br>
 
 #
 
