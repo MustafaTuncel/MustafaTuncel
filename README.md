@@ -118,13 +118,20 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 <div align=center>
 <img align=center width="500px" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MustafaTuncel&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=61d9fa&amp;icon_color=F8D866&amp;hide=Jupyter%20Notebook,Roff" style="max-width: 100%;">
 
-<img align=center width="500px" src="https://streak-stats.demolab.com/?user=MustafaTuncel&amp;theme=react&amp;hide_border=true" style="max-width: 100%;" alt="My GitHub Stats">
+<img align=center width="500px" src="https://streak-stats.demolab.com/?user=MustafaTuncel&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E" style="max-width: 100%;" alt="My GitHub Stats">
 
 <img align=center width="500px" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MustafaTuncel&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=61d9fa&amp;icon_color=61d9fa" style="max-width: 100%;">
 
 <img align=center width="500px" src="https://github-readme-activity-graph.cyclic.app/graph/?username=MustafaTuncel&amp;bg_color=1F222E&amp;color=61d9fa&amp;line=61d9fa&amp;point=FFFFFF&amp;hide_border=true" style="max-width: 100%;">
-
 </div>
+
+## ⚡ Recent GitHub Activity
+
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 <!--
 **MustafaTuncel/MustafaTuncel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
