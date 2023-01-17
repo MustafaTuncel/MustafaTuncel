@@ -94,6 +94,7 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 ### :tv: Latest Youtube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/channel/UCscVDGKFKT4T1kX3F27ieZw" target="_blank" rel="noopener noreferrer nofollow">
