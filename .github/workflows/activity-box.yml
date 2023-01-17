@@ -1,0 +1,18 @@
+name: Activity Box
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+      - uses: JasonEtco/activity-box@master
+        env:
+          GH_PAT: ${{ secrets.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 }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: MustafaTuncel
+          GIST_ID: https://gist.github.com/MustafaTuncel/5e442d788b4c5f2ba808a68b41f86819
