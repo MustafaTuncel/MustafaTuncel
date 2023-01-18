@@ -125,6 +125,10 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 <img align=center width="500px" src="https://github-readme-activity-graph.cyclic.app/graph/?username=MustafaTuncel&amp;bg_color=1F222E&amp;color=61d9fa&amp;line=61d9fa&amp;point=FFFFFF&amp;hide_border=true" style="max-width: 100%;">
 </div>
 
+# Recent Activity :zap:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <!--
 **MustafaTuncel/MustafaTuncel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
