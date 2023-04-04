@@ -100,7 +100,7 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 ## :tv: Latest Youtube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Mr. Utku at the job interview](https://ytcards.demolab.com/?id=GOcpxusa3q4&title=Mr.+Utku+at+the+job+interview&lang=en&timestamp=1674212051&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Mr. Utku at the job interview")](https://www.youtube.com/watch?v=GOcpxusa3q4)
+
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/channel/UCscVDGKFKT4T1kX3F27ieZw" target="_blank" rel="noopener noreferrer nofollow">
