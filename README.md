@@ -21,7 +21,6 @@
 ***- I’m currently working on*** *My Github profile & personal web site.*<br>
 ***- I’m currently learning*** *Javascript.*<br>
 ***- I’m looking to collaborate on*** *GitHub.*<br>
-***- Pronouns:*** *He/Him.*<br>
 ***- Fun fact:*** *I'm RPG, PC & Board Games enthusiast. Also, I'm interesting with Fitness, Vocal Trance, Reggae & Rap music. I do sports at every opportunity. Lastly, I love anime, animals & art.* <br><br>
 
 <!-- CUSTOM ICON BADGES COLOR LIST
@@ -83,15 +82,15 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 <img align="center" width="40px" alt="reddit" title="Reddit" src="https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg"></img></a>
 
 <a href="https://discord.gg/n6RQ5Ha" target="_blank" rel="noopener noreferrer nofollow">
-<img align="center" width="40px" alt="steam" title="Steam" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg"></img>
+<img align="center" width="40px" alt="discord" title="Discord" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg"></img></a>
 
 <a href="https://www.twitch.tv/mustafatuncel" target="_blank" rel="noopener noreferrer nofollow">
-<img align="center" width="40px" alt="steam" title="Steam" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg"></img></a>
+<img align="center" width="40px" alt="twitch" title="Twitch" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg"></img></a>
 
 <a href="https://open.spotify.com/user/sofiapavlovena" target="_blank" rel="noopener noreferrer nofollow">
 <img align="center" width="40px" alt="spotify" title="Spotify" src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg"></img></a>
 
-<a href="https://steamcommunity.com/id/SofiaPavlovena/" target="_blank" rel="noopener noreferrer nofollow">
+<a href="https://steamcommunity.com/id/Relaps/" target="_blank" rel="noopener noreferrer nofollow">
 <img align="center" width="40px" alt="steam" title="Steam" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg"></img></a>
 
 <a href="https://www.youtube.com/channel/UCscVDGKFKT4T1kX3F27ieZw" target="_blank" rel="noopener noreferrer nofollow">
