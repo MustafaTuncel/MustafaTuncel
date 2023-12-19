@@ -31,7 +31,7 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 
 <div id="body" align=center>
 
-<img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmustafatuncel.github.io"><img src="https://visitor-badge.glitch.me/badge?page_id=MustafaTuncel.visitor-badge?left_color=grey&right_color=green"><img src="https://img.shields.io/github/actions/workflow/status/MustafaTuncel/MustafaTuncel/youtube-cards.yml"><img src="https://img.shields.io/github/last-commit/MustafaTuncel/MustafaTuncel"><img src="https://img.shields.io/github/commit-activity/y/MustafaTuncel/MustafaTuncel?color=brightgreen"> <br>
+<img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmustafatuncel.github.io"><img src="https://img.shields.io/github/actions/workflow/status/MustafaTuncel/MustafaTuncel/youtube-cards.yml"><img src="https://img.shields.io/github/last-commit/MustafaTuncel/MustafaTuncel"><img src="https://img.shields.io/github/commit-activity/y/MustafaTuncel/MustafaTuncel?color=brightgreen"> <br>
 <img src="https://img.shields.io/github/languages/count/MustafaTuncel/learningprocess"><img src="https://img.shields.io/github/languages/top/MustafaTuncel/learningprocess"><img src="https://img.shields.io/github/forks/MustafaTuncel/MustafaTuncel"><img src="https://img.shields.io/github/stars/MustafaTuncel/MustafaTuncel"><img src="https://img.shields.io/github/milestones/all/MustafaTuncel/MustafaTuncel"><img src="https://img.shields.io/github/contributors/MustafaTuncel/MustafaTuncel?color=blue"><img src="https://img.shields.io/github/followers/MustafaTuncel"> <br>
 <img src="https://img.shields.io/github/issues/MustafaTuncel/MustafaTuncel?color=yellow"><img src="https://img.shields.io/github/issues-closed/MustafaTuncel/MustafaTuncel?color=yellow"><img src="https://img.shields.io/github/issues-pr/MustafaTuncel/MustafaTuncel?color=yellow"><img src="https://img.shields.io/github/issues-pr-closed/MustafaTuncel/MustafaTuncel?color=yellow"><br>
 
@@ -116,12 +116,6 @@ blueviolet, ff69b4 / f25278 (pink), 9cf (lightblue)
 
 <div align=center>
 <img align=center width="500px" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MustafaTuncel&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=61d9fa&amp;icon_color=F8D866&amp;hide=Jupyter%20Notebook,Roff" style="max-width: 100%;">
-
-<img align=center width="500px" src="https://streak-stats.demolab.com/?user=MustafaTuncel&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E" style="max-width: 100%;" alt="My GitHub Stats">
-
-<img align=center width="500px" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MustafaTuncel&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=61d9fa&amp;icon_color=61d9fa" style="max-width: 100%;">
-
-<img align=center width="500px" src="https://github-readme-activity-graph.cyclic.app/graph/?username=MustafaTuncel&amp;bg_color=1F222E&amp;color=61d9fa&amp;line=61d9fa&amp;point=FFFFFF&amp;hide_border=true" style="max-width: 100%;">
 </div>
 
 <!--
